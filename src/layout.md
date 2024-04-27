@@ -1,5 +1,5 @@
 # Layout
-- On my keyboard piantor, `R` is slightly to the right of what's shown here.
+- On my keyboard Piantor, `R` is slightly to the right of what's shown here.
 
 ![](./dusk.svg)
 
