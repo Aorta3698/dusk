@@ -1,0 +1,10 @@
+[book]
+authors = ["Zoe Winters"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Dusk Keyboard Layout"
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]

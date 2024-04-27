@@ -1,0 +1,87 @@
+# FAQ
+
+<!-- toc -->
+
+## Why not swap 2 index block?
+- It increases alteration by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
+- `OW` and `WO` would suck. I consider that scissors. Swapping `W` and `Q` won't help because then `WA` would suck.
+- The intended `CY`, `YC`, `PY`, `YP` alts would be less feasible. Think words like `happy` or `privacy`.
+
+## Why not swap `X` and `Z` for lower SFB and SFS?
+- `F_X` is a skip full pinky-ring scissor (`fix`).
+- `B_X` is a 2u pinky SFS (`unboxing`).
+- `XP` is a bit awkward (`expect`).
+- At the end of the day, stats isn't everything. Comfort should come first.
+
+## How much worse is vowel thumb space and can I use thumb R with vowel thumb?
+It is commonly known that space should be pressed with the consonant thumb because it has lower redirection and higher roll, and so why is the thumb `R` in `Dusk` on the consonant side?
+
+The reason is simple - thanks to `a200` analyzer, I've come to the conclusion that even after considering the extra 0.52% redirection incurred by vowel space thumb, having `R` on the consonant thumb as opposed to the vowel thumb leads to approximately 3.87% lower redirection overall.
+
+But then you may wonder: Is the redirection caused by thumb even real? How come that I have not felt any space redirection?
+
+For me at least, after having tried `Dusk` with vowel thumb `R` for a few days, most redirection involving `R` is just as good, if not better than, the redirection involving index finger, but with one exception: when index `L` is also involved. Take the word `earlier` for example, that word just feels bad to type with vowel thumb `R`.
+
+## What is the True SFB if I alt and slide?
+If you 
+- Alt `PY`, `YP`, `CY`, `'M`, and `'L`. 
+- Slide `UE`, `OA`, `HL`, `YW`, and `FS`.
+
+then SFB is almost none, leaving really only `GY`, `LM`, `I.`, and `I,`. None of which is common (unless you type `almost` a lot).
+
+## I despise alting, can I re-arrange index letters?
+Yes - arrange them how you like them!
+
+## Can I use `Dusk` on a rowstag keyboard?
+It is possible to do so with wide mod, but `Dusk` is designed for colstag keyboards, so I can't say the experience would be good. You may or may not want to re-arrange some index keys.
+
+## Is Dusk good for e200 on MonkeyType?
+It is :D
+
+It doesn't have any SFB (0.00%) on e200 and with remarkably low SFS as well.
+```
+dusk
+  b f d p q  j ' o u .
+  n s t c y  m h a e i
+  z v k g w  x l _ / ,
+          r                 
+
+ENGLISH-200:
+  Alt: 30.73%
+  Rol: 50.11%   (In/Out: 21.60% | 28.51%)
+  One:  1.34%   (In/Out:  0.67% |  0.67%)
+  Rtl: 51.45%   (In/Out: 22.27% | 29.18%)
+  Red:  3.79%   (Bad:     0.22%)
+
+  SFB: 0.00%
+  SFS: 3.34%    (Red/Alt: 1.56% | 1.78%)
+
+  LH/RH: 47.04% | 52.96%  
+```
+
+## I don't care about half scissor, I hate inner `W` position, and I want the best stats
+You may be interested in `Dusk_optimized`.
+
+Pinky `s` is commonly known for having the best stats and it stands true here. However,
+`Dusk_optimized` has way more (1.41%) half scissors than `Dusk` according to Keysolve.
+
+`Dusk_optimized` was created out of curiousity because I did not design `Dusk` to have the best stats and yet it comes out with extremely low stats. It got me wonder how much lower can SFB and SFS go if I solely optimize for them.
+```
+dusk_optimized
+  f p d w q  j ' o u .
+  s n t c y  m h a e i
+  z b k g v  x l _ / ,
+          r                   
+
+MONKEYRACER:
+  Alt: 28.31%
+  Rol: 47.97%   (In/Out: 20.42% | 27.55%)
+  One:  1.67%   (In/Out:  0.63% |  1.04%)
+  Rtl: 49.64%   (In/Out: 21.06% | 28.58%)
+  Red:  3.42%   (Bad:     0.39%)
+
+  SFB: 0.36%
+  SFS: 3.68%    (Red/Alt: 1.07% | 2.62%)
+
+  LH/RH: 46.90% | 53.10%
+```
