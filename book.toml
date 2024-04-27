@@ -8,3 +8,7 @@ title = "Dusk Keyboard Layout"
 [preprocessor.toc]
 command = "mdbook-toc"
 renderer = ["html"]
+
+[output.html]
+default-theme = "Ayu"
+preferred-dark-theme = "Ayu"
