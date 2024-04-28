@@ -9,7 +9,7 @@ With my current typing speed, I have yet to observe any glaring issues with it.
 I rarely feel any SFB or SFS at all thanks to `Dusk`'s impressive stats, and the major grip that other people have: `LSB` and `W position` don't bother me at all. 
 
 Additionally, I like the fact that it has almost all the common shortcuts on my left hand: 
-`CTRL-C`, `CTRL-V`, `CTRL-Z`, `CTRL-W`, `CTRL-D`. The only regrettable thing is `CTRT-X` being 2 hands.
+`CTRL-C`, `CTRL-V`, `CTRL-Z`, `CTRL-W`, `CTRL-D`. The only regrettable thing is `CTRL-X` being 2 hands.
 
 When it comes to vim, I am editing this documentation with `Helix` and I think it is usable. I got used to using `Canary-ortho` on `Neovim` and `Helix`, and I don't see how `Dusk` is worse than `Canary-ortho` when it comes to vim motion.
 
