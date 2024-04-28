@@ -95,7 +95,7 @@ Z V K G W  X L ~ / ,
         R
 ```
 
-### The Quote Symbol `'`
+### Quote Symbol `'`
 Other layouts commonly have `OA'` stack on the middle finger, but after using other layouts that have this stack, I've come to dislike it. Here is why:
 - `You'` feels like 2u SFB even if it is 2u SFS. For me, `ou` is a roll, so my middle finger tends to not leave for `'` until after `u` has been typed.
 - `don't` and `won't` feel just awful with how common they are.
@@ -111,6 +111,34 @@ Z V K G W  X L ~ / ,
 with the intention to alt `'m` and `'ll`, both of which are doable for my columnar keyboard.  If you do not want to do `'ll` alt, I think it is still preferable over `OA'` stack. (I do not believe `'ll` alt is feasible on rowstag keyboard).
 
 It does create `h_'` SFS, but it is about as common as `a_'`.
+
+#### Alternative 1
+Embrace the `OA'` stack like the layout below shows - all the pros and cons have been explained above.
+
+You may want to swap `J~`.
+```
+B F D P Q  J ~ O U .
+N S T C Y  M H A E I
+Z V K G W  X L ' / ,
+        R
+```
+#### Alternative 2
+Swap `QJ'`.
+
+Keep in mind that it creates
+- `Y'` SFB (`They'`)
+- `W_'` SFS (`We'`)
+- `DN'` redirection (`don't`)
+- `C__'` SFS (`can't`)
+
+It does not lower SFB or SFS on either SHAI or Monkeyracer (in fact, SFB goes up by 0.01%), but it increases redirection by 0.58% on Monkeyracer corpus according to Cmini.
+```
+B F D P '  Q J O U .
+N S T C Y  M H A E I
+Z V K G W  X L ~ / ,
+        R
+```
+
 
 ### The Last Spot
 It's free real estate. I decided to put underscore `_` there because I code in `C++` and `Rust` often. You can put `;` there if you'd like, or anything really.
