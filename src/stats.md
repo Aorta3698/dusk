@@ -2,6 +2,9 @@
 
 <!-- toc -->
 
+## Heatmap
+![](heatmap.png)
+
 ## Oxeylyzer
 - No thumb key support
 - Highest finger speed is on right ring at 0.769
