@@ -4,7 +4,7 @@
 
 ## Goals
 `Dusk` was designed with these goals in mind:
-- Roll over Alteration
+- Roll over Alternation
 - Low scissors
 - Low 2u SFS (including some fast `X__Y`)
 - Low SFS
