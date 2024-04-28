@@ -18,7 +18,7 @@ But of course, no layout is perfect, despite its impressive stats, `Dusk` isn't 
 
 ## Nickpicking
 All frequency below are obtained from Cmini with SHAI corpus
-with the command ```!cmini examples <pattern>```. Only those `>= 0.10%` are documented.
+with the command ```!cmini examples <pattern>```. Only those `>= 0.010%` are documented.
 
 The `bad` just means that I do not like them, but they may not have been considered as scissor with the conventional definition.
 `BAD` means worse than just `bad`.
