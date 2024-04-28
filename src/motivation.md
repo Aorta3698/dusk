@@ -14,6 +14,7 @@ q j v d k  x h / , .
 In particular, I don't vibe with:
 - `B_D` and all the `K` interaction with `B__K` (`.back()`) and `P__K` (`pack`) leading to 2u/2.24u SFS.
 - That feeling that left index is flying all over the place at high speed.
+- High SFS.
 - `LV`, `SYS`, `RL`, `WR`, `CL`.
 
 Don't get me wrong - `Canary-ortho` is a decent layout - but I just hope for something better. I decided to try other modern layouts such as `Graphite`, `Gallium`, `Kuntum`, `Stronk`, and several others, but none of it speaks to me the way that `Canary` does.
