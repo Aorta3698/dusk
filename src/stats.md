@@ -95,7 +95,7 @@ MONKEYRACER:
   Total: 100.00%
 ```
 ## SFS Finger Distribution (Cmini)
-- I am unsure why the sum of SFS here does not match the SFS stat from Cmini above.
+- The total 3.98% is actually a more accurate number than the Cmini stat above due to some lower/upper case conversion issues in Cmini.
 
 - No finger gets over 1%.
 
@@ -114,9 +114,11 @@ MONKEYRACER:
   LP:  0.13%    RP:  0.37%
 
   LT: 0.00%
+
+Total: 3.98%
 ```
 ## SFBS Finger Distribution (Cmini)
-- I am unsure why the sum of SFB here does not match the SFB stat from Cmini above.
+- The total 0.48% is actually a more accurate number than the Cmini stat above due to some lower/upper case conversion issues in Cmini.
 
 - No finger gets over 0.20%
 
@@ -133,4 +135,6 @@ MONKEYRACER:
   LM:  0.01%    RM:  0.07%
   LR:  0.02%    RR:  0.13%
   LP:  0.01%    RP:  0.00%
+
+Total: 0.48%
 ```
