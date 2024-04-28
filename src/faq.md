@@ -118,7 +118,7 @@ MONKEYRACER:
   LH/RH: 46.90% | 53.10%
 ```
 
-## How do you make the figures in [Layout](./layout.md)?
+## How did you make the figures in [Layout](./layout.md)?
 It is from [here](https://keymap-drawer.streamlit.app/) with the following setting:
 ```
 layout:
