@@ -32,13 +32,7 @@ MONKEYRACER:
 Did you read [this](./design.md#alternative-1) and [this](./design.md#alternative-2)?
 
 ## I hate where `V` is!
-Consider swapping `VQ`, but you may also want to swap `WV` to avoid 2.23u `g_v`.
-```
-b f d p w  j ' o u .
-n s t c y  m h a e i
-z q k g v  x l _ / ,
-        r   
-```
+Fair concern - use `Dusk-qvwz`.
 
 ## Why not swap 2 index block?
 - It increases alternation by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
@@ -122,4 +116,24 @@ MONKEYRACER:
   SFS: 3.68%    (Red/Alt: 1.07% | 2.62%)
 
   LH/RH: 46.90% | 53.10%
+```
+
+## How do you make the figures in [Layout](./layout.md)?
+It is from [here](https://keymap-drawer.streamlit.app/) with the following setting:
+```
+layout:
+  qmk_keyboard: chocofi
+  #qmk_layout: LAYOUT_split_3x5_2
+layers:
+  DEF:
+    - [B, F, D, P, W, J, "'", O, U, .]
+    - [N, S, T, C, Y, M, H, A, E, I]
+    - [Q, Z, K, G, V, X, L, "_", /, ","]
+    - {}
+    - {t: R}
+    - {}
+    - {}
+    - {t: Space}
+    - {}
+
 ```
