@@ -131,7 +131,7 @@ Keep in mind that it creates
 - `DN'` redirection (`don't`)
 - `C__'` SFS (`can't`)
 
-It does not lower SFB or SFS on either SHAI or Monkeyracer (in fact, SFB goes up by 0.01%), but it increases redirection by 0.58% on Monkeyracer corpus according to Cmini.
+It results in roughly the same SFB or SFS on either SHAI or Monkeyracer, but it increases redirection by 0.58% on Monkeyracer corpus according to Cmini.
 ```
 B F D P '  Q J O U .
 N S T C Y  M H A E I
