@@ -5,7 +5,7 @@
 ## Compare Canary to Dusk is not fair!
 Yes, I agree, but I used to main `Canary-ortho`, it makes sense for me to compare them.
 
-Feel free to compare `Dusk` against other thumb layouts such as `Pine-y`, `sturdy-thumbn`, `Aptmak`, `Bunya`, or `Chrono`.
+Feel free to compare `Dusk` against other thumb layouts such as `Pine-y`, `Sturdy-thumbn`, `Aptmak`, `Bunya`, or `Chrono`.
 
 `Chrono` (another layout of mine) beats `Dusk` for having even lower SFS, low LSB, and no inner corner key like `W` in `Dusk`, but in exchange getting `LK` ring-middle full scissor, `RL` SFB, and `BR` scissor.
 
