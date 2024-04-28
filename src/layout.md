@@ -13,7 +13,7 @@ z v k g w  x l _ / ,
 ```
 
 # Variant
-It's made to address conern over `V`.
+It's made to address concern over `V`.
 
 This variant has similar stats but with even lower scissor at the expense of having left index do more work.
 ## Dusk-qvwz
