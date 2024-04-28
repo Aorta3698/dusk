@@ -2,6 +2,32 @@
 
 <!-- toc -->
 
+## Compare Canary to Dusk is not fair!
+Yes, I agree, but I used to main `Canary-ortho`, it makes sense for me to compare them.
+
+Feel free to compare `Dusk` against other thumb layouts such as `Pine-y`, `sturdy-thumbn`, `Aptmak`, `Bunya`, or `Chrono`.
+
+`Chrono` (another layout of mine) beats `Dusk` for having even lower SFS, low LSB, and no inner corner key like `W` in `Dusk`, but in exchange getting `LK` ring-middle full scissor, `RL` SFB, and `BR` scissor.
+
+```
+chrono
+  b l d p z  q w o u .
+  n r t h y  g c a e i
+  x j k f v  ' m ; / ,
+        s                   
+
+MONKEYRACER:
+  Alt: 30.72%
+  Rol: 44.80%   (In/Out: 26.31% | 18.49%)
+  One:  1.95%   (In/Out:  0.71% |  1.24%)
+  Rtl: 46.75%   (In/Out: 27.02% | 19.73%)
+  Red:  3.67%   (Bad:     0.38%)
+
+  SFB: 0.53%
+  SFS: 3.67%    (Red/Alt: 0.98% | 2.69%)
+
+  LH/RH: 49.94% | 50.06%
+```
 ## Why not swap 2 index block?
 - It increases alteration by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
 - `OW` and `WO` would suck. I consider that scissors. Swapping `W` and `Q` won't help because then `WA` would suck.
