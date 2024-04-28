@@ -62,6 +62,8 @@ Z ~ K ~ ~  ~ L ~ / ,
 ```
 ### `FSV`
 `ST` in-roll sounds like a good idea and `S` doesn't have good letters to partner, so I decided on `FSV` stack for the ring finger.
+
+If you are concerned about `dv` full scissor, `FSQ` is another option.
 ```
 B F D ~ ~  ~ ~ O U .
 N S T ~ ~  M H A E I

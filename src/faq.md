@@ -31,6 +31,15 @@ MONKEYRACER:
 ## I hate where ' is!
 Did you read [this](./design.md#alternative-1) and [this](./design.md#alternative-2)?
 
+## I hate where `V` is!
+Consider swapping `VQ`, but you may also want to swap `WV` to avoid 2.23u `g_v`.
+```
+b f d p w  j ' o u .
+n s t c y  m h a e i
+z q k g v  x l _ / ,
+        r   
+```
+
 ## Why not swap 2 index block?
 - It increases alternation by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
 - `OW` and `WO` would suck. I consider that scissors. Swapping `W` and `Q` won't help because then `WA` would suck.
