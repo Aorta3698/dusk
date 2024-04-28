@@ -77,7 +77,7 @@ It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho
 ### Quotes (Cmini with Monkeyracer corpus):
 - 0.58% less SFB at 0.38%
 - 3.86% less SFS at 3.77%
-- 0.03% more redirection
+- 0.03% more redirection at 3.32%
 
 ## Closing
 Overall, I believe `Dusk` is an improvement over `Canary-ortho` in a lot of ways and I am happy with how it turns out.
