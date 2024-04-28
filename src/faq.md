@@ -32,7 +32,7 @@ MONKEYRACER:
 Did you read [this](./design.md#alternative-1) and [this](./design.md#alternative-2)?
 
 ## Why not swap 2 index block?
-- It increases alteration by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
+- It increases alternation by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
 - `OW` and `WO` would suck. I consider that scissors. Swapping `W` and `Q` won't help because then `WA` would suck.
 - The intended `CY`, `YC`, `PY`, `YP` alts would be less feasible. Think words like `happy` or `privacy`.
 

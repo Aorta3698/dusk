@@ -73,12 +73,11 @@ It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho
 - 3.019 less SFS at 4.950%
 - 1.882 less finger speed at 4.189 
 - 0.354 less LSB at 2.179%
-- 0.630 less redirection at 2.649%
-- 0.186 more bad redirection at 0.276%
 
 ### Quotes (Cmini with Monkeyracer corpus):
 - 0.58% less SFB at 0.38%
 - 3.86% less SFS at 3.77%
+- 0.03% more redirection
 
 ## Closing
 Overall, I believe `Dusk` is an improvement over `Canary-ortho` in a lot of ways and I am happy with how it turns out.
