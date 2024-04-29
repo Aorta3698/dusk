@@ -63,13 +63,30 @@ Z ~ K ~ ~  ~ L ~ / ,
 ### `FSV`
 `ST` in-roll sounds like a good idea and `S` doesn't have good letters to partner, so I decided on `FSV` stack for the ring finger.
 
-If you are concerned about `dv` full scissor, `FSQ` is another option.
 ```
 B F D ~ ~  ~ ~ O U .
 N S T ~ ~  M H A E I
 Z V K ~ ~  ~ L ~ / ,
         R
 ```
+
+#### Wait a minute!
+You may think, "wait a minute! but that creates `NV` and `DV` scissors!". Yes, I hear you, so there is another variant [`dusk-vqz`](./layout.md#dusk-vqz) that addresses this concern.
+
+What's the trade-off?
+
+Pros:
+- no `NV` scissor (`involve`)
+- no `DV` scissor (`advice`)
+- no `b_v` skip scissor (`above`)
+- no `f_v` 2u SFS (`favorite`)
+
+Cons:
+- `w_v` 2u SFS (`however`)
+- `g_v` 2.23u SFS (`give`)
+- `rv` and `v_r` thumb to upper inner index motion may be weird for some (`service` and `very`).
+- 6 keys to look after for left index.
+
 ### `PCGWY`
 `Y` is yet another problematic letter as it creates `CY`, `PY`, `GY` SFBS and `W_Y` is common enough that I'd like `WY` to be 1u apart. 
 I decided on
