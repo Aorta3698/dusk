@@ -1,3 +1,3 @@
 This repo is for
 
-https://dusk.altlayouts.com
+https://altlayouts.com/dusk
