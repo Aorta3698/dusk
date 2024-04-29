@@ -66,7 +66,7 @@ It may be possible to make `Dusk` a magic layout, but I am personally not into m
 ### 2u SFS (Cyanophage):
 - 0.04% less 2u SFS at 0.11%
 
-It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho` into account (`very`, `back`, `park`).
+It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho` into account (`very`, `back`, `park`), so in actuality, it is better than just 0.04% reduction.
 
 ### Various info (Oxeylyzer):
 - 0.342 less SFB at 0.527%

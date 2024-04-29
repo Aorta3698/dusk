@@ -117,7 +117,7 @@ MONKEYRACER:
 
 Total: 3.98%
 ```
-## SFBS Finger Distribution (Cmini)
+## SFB Finger Distribution (Cmini)
 - The total 0.48% is actually a more accurate number than the Cmini stat above due to some lower/upper case conversion issues in Cmini.
 
 - No finger gets over 0.20%

@@ -18,5 +18,5 @@ while maintaining a reasonable redirection and LSB. As such, `Dusk` is consisten
 
 
 ### Side Note
-No idea what LSB, SFS, or SFB means? Check out [terminology](./term.md)!
+No idea what LSB, SFS, or SFB means? Check out [terminology](chapters/term.md)!
 

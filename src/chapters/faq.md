@@ -91,13 +91,25 @@ ENGLISH-200:
   LH/RH: 47.04% | 52.96%  
 ```
 
-## I don't care about half scissor, I hate inner `W` position, and I want the best stats
-You may be interested in `Dusk_optimized`.
+## `W` position... Really?
+There is actually another version of Dusk: `Dusk_optimized`.
 
-Pinky `s` is commonly known for having the best stats and it stands true here. However,
-`Dusk_optimized` has way more (1.41%) half scissors than `Dusk` according to Keysolve.
+To get rid of `W` inner key, `Dusk_optimized` moved `P` to be with `BN`, and in doing so, it gets rid of the inner corner key and achieves even lower SFB and SFS. However, the cost of it is a whopping 1.41% increase in half scissors according to Keysolve.
 
-`Dusk_optimized` was created out of curiousity because I did not design `Dusk` to have the best stats and yet it comes out with extremely low stats. It got me wonder how much lower can SFB and SFS go if I solely optimize for them.
+I hesitate to recommend `Dusk_optimized` for the following reasons:
+
+- Words like `prob`, `problem`, `public` being 2 row ring jump (much more freq than `f_v` or `f__v` on `Dusk`).
+
+- There are some interaction with `P` and `K` such as `park` and `speak`.
+
+- Interaction between `W` and `K`: `know`, `weak`, `woke` (`know` alone would be a deal breaker for me).
+
+- Frequent `nk` half scissor and `w_t`, `w__t` skip half scissor.
+
+- `nf` being out-roll scissor (I found pinky-ring scissor better as in-roll).
+
+Swapping `WG` addresses some of the concerns above, but you get worse `ng` and `g_t`.
+
 ```
 dusk_optimized
   f p d w q  j ' o u .
