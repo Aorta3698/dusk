@@ -1,12 +1,12 @@
 # Summary
 
-[Dusk](intro.md)
- - [Layout](layout.md)
- - [Motivation](motivation.md)
- - [Design](design.md)
- - [Statistics](stats.md)
- - [My Thoughts](thoughts.md)
- - [FAQ](faq.md)
+[Dusk](chapters/intro.md)
+ - [Layout](chapters/layout.md)
+ - [Motivation](chapters/motivation.md)
+ - [Design](chapters/design.md)
+ - [Statistics](chapters/stats.md)
+ - [My Thoughts](chapters/thoughts.md)
+ - [FAQ](chapters/faq.md)
 ----------
-[Terminology](term.md)
+[Terminology](chapters/term.md)
 
