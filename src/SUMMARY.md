@@ -1,6 +1,6 @@
 # Summary
 
-[Dusk](chapters/intro.md)
+[Dusk](README.md)
  - [Layout](chapters/layout.md)
  - [Motivation](chapters/motivation.md)
  - [Design](chapters/design.md)
