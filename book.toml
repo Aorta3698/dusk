@@ -13,3 +13,4 @@ renderer = ["html"]
 default-theme = "Ayu"
 preferred-dark-theme = "Ayu"
 git-repository-url="https://github.com/Aorta3698/dusk"
+site-url = "/dusk"
