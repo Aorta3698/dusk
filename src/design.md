@@ -84,7 +84,7 @@ Pros:
 Cons:
 - `w_v` 2u SFS (`however`)
 - `g_v` 2.23u SFS (`give`)
-- `rv` and `v_r` thumb to upper inner index motion may be weird for some (`service` and `very`).
+- `rv` and `v_r` may be weird for some (`service` and `very`).
 - 6 keys to look after for left index.
 
 ### `PCGWY`
