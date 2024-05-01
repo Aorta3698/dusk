@@ -38,7 +38,7 @@ Explore these options:
 Consider [`Dusk-qvz`](./layout.md#dusk-qvz).
 
 ## I hate how `Y` has `CY`, `PY`, `GY`, and `WY` SFB
-Explore [this option](./design.md#alternative-1).
+Explore [this option](./design.md#option).
 
 ## Why not swap 2 index block?
 - It increases alternation by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.

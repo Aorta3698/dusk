@@ -102,7 +102,7 @@ because:
 - `W` is under `Y` because `W_Y` is common, in addition to `YW` SFB. It is not above `Y` because `W_T`, `W__T`, `W__K`, `TW` and `WR` all feel awful. I am okay with `P_W` or `W_P` 2.24u SFS as they are rare.
 - `P` takes the last good spot and creates `PY` and `YP` alts.
 
-#### Alternative 1
+#### Option
 
 If you don't want to alt/slide `CY`, `PY`, `YP`, `GY`, and `WY`, and get deeply annoyed with them. May I suggest that you do
 ```
