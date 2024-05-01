@@ -10,10 +10,9 @@
 - Low SFS
 - Low SFB
 - Low finger speed
-- Low usage for pinky and ring bottom keys
-- No finger gets overworked
+- Fair workload for each finger
 
-Low SFS takes slight priority over low SFB with respect to a ratio, and low 2u SFS and scissors, including half scissors, take priority over both SFS and SFB.
+Coming from Canary, I'd like to focus on keeping its low scissors and 2u SFS, while optimizing for SFS and keeping an eye on SFB.
 
 ## Vowel Block
 I decided to go with the popular vowel block
@@ -23,7 +22,7 @@ I decided to go with the popular vowel block
 ~ ~ ~ ~ ~  ~ ~ ~ / ,
         ~
 ```
-as it as commonly agreed upon to be the most balanced vowel block choice.
+as `EO` is the primary source of SFS on Canary and `OU` `AEI` vowel block is commonly agreed upon to be the most balanced vowel block choice in modern days.
 Having `I` alone on the pinky for the `.I,` stack.
 
 Why vowel block? because vowels don't go well with most letters, but they go relatively well with each other.
@@ -50,7 +49,7 @@ To avoid `RL` SFB, I decided to put `R` on a thumb key (as opposed to the `RN` s
         R
 ```
 ### `BNZ`
-I like the idea of having `N` on the pinky because they tend to be quite non-offensive with low redirection and scissors especially now that `R` is gone (usually `N` pinky layouts end up with `BR` scissor like in `Graphite` and `Gallium`).
+I like the idea of having `N` on the pinky because they promote inroll with `S`, `T`, `C` and tend to be have lower redirection and scissors especially now that `R` is gone (usually `N` pinky layouts end up with `BR` scissor like in `Graphite` and `Gallium`).
 
 `N` doesn't interact with `B` much and with a low-usage key `Z`, `BNZ` goes to pinky.
 
@@ -100,7 +99,7 @@ because:
 - I want `NG` to be a nice roll and a good `G_T` (`-ing`, `-ght`, `get`, `got`).
 - `C` is usually more common, so it is on the homerow.
 - `Y` is there for the ease of alting `CY`, `PY`, `YP` and (optionally) `GY`.
-- `W` is under `Y` because `W_Y` is common, in addition to `YW` SFB. It is not above `Y` because `W_T`, `W__T`, `W__K`, `TW` and `WR` all feel awful. I am okay with `P_W` or `W_P` 2.5u SFS as they are rare.
+- `W` is under `Y` because `W_Y` is common, in addition to `YW` SFB. It is not above `Y` because `W_T`, `W__T`, `W__K`, `TW` and `WR` all feel awful. I am okay with `P_W` or `W_P` 2.24u SFS as they are rare.
 - `P` takes the last good spot and creates `PY` and `YP` alts.
 
 ### `QJX`
@@ -155,6 +154,14 @@ It results in roughly the same SFB and SFS on either SHAI or Monkeyracer, but it
 B F D P '  Q J O U .
 N S T C Y  M H A E I
 Z V K G W  X L ~ / ,
+        R
+```
+#### Alternative 3
+Put `'` at both empty spots. Use the bottom `'` for `'m` and `'ll`.
+```
+B F D P Q  J ' O U .
+N S T C Y  M H A E I
+Z V K G W  X L ' / ,
         R
 ```
 

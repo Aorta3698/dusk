@@ -2,7 +2,7 @@
 
 - **Same Finger Bigram (SFB)**: Pressing two keys with the same finger in conjunction.
 
-- **Same Finger Skipgram (SFS)**: Pressing two keys with the same finger, but separated by x letters (1 keypress).
+- **Same Finger Skipgram (SFS)**: Pressing two keys with the same finger, but separated by x letters.
 
 - **Disjointed Same Finger Bigram (dSFB)**: Synonym for SFS. Not used as much anymore.
 
@@ -26,11 +26,11 @@
 
 - **Full-Scissor Bigram (FSB)**: A full-scissor is a pattern where one finger needs to reach to the top row and another finger on the same hand needs to contract to hit the bottom row - but the finger that is on the lower of two rows is either middle or ring. `cr`, `ex`, `xt` are all FSBs on QWERTY.
 
-- **Half-Scissor Skipgram (HSS)**: Similar to `HSB` except it is separated by 1 keypress from another finger.
+- **Half-Scissor Skipgram (HSS)**: Similar to `HSB` except it is separated by x letters from another finger.
 
-- **Full-Scissor Skipgram (FSS)**: Similar to `FSB` except it is separated by 1 keypress from another finger.
+- **Full-Scissor Skipgram (FSS)**: Similar to `FSB` except it is separated by x letters from another finger.
 
-- **Lateral Stretch Skipgram (LSS)**: Similar to `LSB` except it is separated by 1 keypress from another finger.
+- **Lateral Stretch Skipgram (LSS)**: Similar to `LSB` except it is separated by x letters from another finger.
 
 - **Onehand (ONE)**: A onehand is when all three keypresses are pressed on the same hand, and in an order from left to right or right to left. `asd`, `sdf`, and `fds` are all onehands on QWERTY.
 

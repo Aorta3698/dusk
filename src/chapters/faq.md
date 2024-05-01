@@ -29,10 +29,13 @@ MONKEYRACER:
   LH/RH: 49.94% | 50.06%
 ```
 ## I hate where ' is!
-Did you read [this](./design.md#alternative-1) and [this](./design.md#alternative-2)?
+Explore these options:
+- [Option 1](/src/chapters/design.md#alternative-1)
+- [Optoin 2](./design.md#alternative-2)
+- [Option 3](./design.md#alternative-3)
 
 ## I hate where `V` is!
-Fair concern - use `Dusk-qvwz`.
+Consider [`Dusk-qvz`](./layout.md#dusk-qvz).
 
 ## Why not swap 2 index block?
 - It increases alternation by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
