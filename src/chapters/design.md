@@ -102,6 +102,17 @@ because:
 - `W` is under `Y` because `W_Y` is common, in addition to `YW` SFB. It is not above `Y` because `W_T`, `W__T`, `W__K`, `TW` and `WR` all feel awful. I am okay with `P_W` or `W_P` 2.24u SFS as they are rare.
 - `P` takes the last good spot and creates `PY` and `YP` alts.
 
+#### Alternative 1
+
+If you don't want to alt/slide `CY`, `PY`, `YP`, `GY`, and `WY`, and get deeply annoyed with them. May I suggest that you do
+```
+B F D P ~  ~ ~ O U .
+N S T C Y  M H A E I
+Z V K G W  ~ L Y / ,
+        R
+```
+Now you have 2 `Y` that you can choose to use according to the words in question.
+
 ### `QJX`
 - `J` goes well with vowel inner top spot because `JU` accounts for most of `J` appearances.
 - `X` does not go well with `C` and `P` (`excel`, `expect`), so it goes to vowel inner bottom spot.
