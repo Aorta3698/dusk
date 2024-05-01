@@ -30,7 +30,7 @@ MONKEYRACER:
 ```
 ## I hate where ' is!
 Explore these options:
-- [Option 1](/src/chapters/design.md#alternative-1)
+- [Option 1](./design.md#alternative-1)
 - [Optoin 2](./design.md#alternative-2)
 - [Option 3](./design.md#alternative-3)
 
