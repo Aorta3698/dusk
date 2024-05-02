@@ -14,6 +14,8 @@
 
 Coming from Canary, I'd like to focus on keeping its low scissors and 2u SFS, while optimizing for SFS and keeping an eye on SFB.
 
+`Dusk` was designed with info obtained with corpus made out of MonkeyType and Typeracer quotes (duplicates removed).
+
 ## Vowel Block
 I decided to go with the popular vowel block
 ```
@@ -102,7 +104,7 @@ because:
 - `W` is under `Y` because `W_Y` is common, in addition to `YW` SFB. It is not above `Y` because `W_T`, `W__T`, `W__K`, `TW` and `WR` all feel awful. I am okay with `P_W` or `W_P` 2.24u SFS as they are rare.
 - `P` takes the last good spot and creates `PY` and `YP` alts.
 
-#### Option
+#### I don't want to alt!
 
 If you don't want to alt/slide `CY`, `PY`, `YP`, `GY`, and `WY`, and get deeply annoyed with them. May I suggest that you do
 ```

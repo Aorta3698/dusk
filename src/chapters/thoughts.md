@@ -92,7 +92,7 @@ It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho
 |--------|------------|--------|
 |  SFB   |  -0.58%    | 0.38%  |
 |  SFS   |  -3.86%    | 3.77%  |
-|  FSB   |  +0.03%    | 3.32%  |
+|  Red   |  +0.03%    | 3.32%  |
 |  Alt   |  +4.55%    | 28.22% |
 |  Rol   |  -0.82%    | 47.95% |
 

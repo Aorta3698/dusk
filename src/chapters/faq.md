@@ -37,8 +37,8 @@ Explore these options:
 ## I hate where `V` is!
 Consider [`Dusk-qvz`](./layout.md#dusk-qvz).
 
-## I hate how `Y` has `CY`, `PY`, `GY`, and `WY` SFB
-Explore [this option](./design.md#option).
+## I hate `Y` due to SFBs
+Explore [this option](./design.md#i-dont-want-to-alt).
 
 ## Why not swap 2 index block?
 - It increases alternation by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
