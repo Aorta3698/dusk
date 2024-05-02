@@ -72,7 +72,7 @@ then SFB is almost none, leaving really only `GY`, `LM`, `I.`, and `I,`. None of
 Yes - arrange them how you like them!
 
 ## Can I use `Dusk` on a rowstag keyboard?
-It is possible to do so with wide mod, but `Dusk` is designed for colstag keyboards, so I can't say the experience would be good. You may or may not want to re-arrange some index keys.
+It is possible to do so with wide mod, but `Dusk` was designed for colstag keyboards, so I can't say the experience would be good. You may or may not want to re-arrange some index keys.
 
 ## Is Dusk good for e200 on MonkeyType?
 It is :D
