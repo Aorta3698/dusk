@@ -64,7 +64,9 @@ It may be possible to make `Dusk` a magic layout, but I am personally not into m
 
 ## `Dusk` vs. `Canary-ortho`
 
-### Scissors (Keysolve):
+### Scissors:
+Info obtained from Keysolve.
+
 | Metric | Difference | Value (Dusk) |
 |--------|------------|-------|
 |  HSB   |  -1.27%    | 2.10% |
@@ -72,14 +74,18 @@ It may be possible to make `Dusk` a magic layout, but I am personally not into m
 |  FSB   |  -0.08%    | 0.02% |
 |  FSS   |  -0.45%    | 0.13% |
 
-### 2u SFS (Cyanophage):
+### 2u SFS:
+Info obtained from Cyanophage.
+
 | Metric | Difference | Value (Dusk) |
 |--------|------------|-------|
 |  2u SFS   |  -0.04%    | 0.11% |
 
 It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho` into account (`very`, `back`, `park`), so in actuality, it is better than just 0.04% reduction.
 
-### Various info (Oxeylyzer):
+### Various info:
+Info obtained from Oxeylyzer.
+
 | Metric | Difference | Value (Dusk) |
 |--------|------------|-------|
 |  SFB   |  -0.342%    | 0.527% |
@@ -87,7 +93,9 @@ It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho
 |  Finger Speed   |  -1.882%    | 4.189% |
 |  LSB   |  -0.354%    | 2.179% |
 
-### Quotes (Cmini with Monkeyracer corpus):
+### Quotes:
+Info obtained from Cmini with Monkeyracer corpus.
+
 | Metric | Difference | Value (Dusk) |
 |--------|------------|--------|
 |  SFB   |  -0.58%    | 0.38%  |
