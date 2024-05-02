@@ -90,7 +90,8 @@ Info obtained from Oxeylyzer.
 |--------|------------|-------|
 |  SFB   |  -0.342%    | 0.527% |
 |  SFS   |  -3.019%    | 4.950% |
-|  Finger Speed   |  -1.882%    | 4.189% |
+|  Finger Speed   |  -1.882    | 4.189 |
+|  Top Finger Speed | <not at home> | <not at home> | 
 |  LSB   |  -0.354%    | 2.179% |
 
 ### Quotes

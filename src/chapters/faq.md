@@ -42,14 +42,15 @@ Explore [this option](./design.md#i-dont-want-to-alt).
 
 ## Why not swap 2 index block?
 - It increases alternation by a whopping 4% to 32.XX% on Cmini with Monkeyracer corpus, which is too high for my taste.
+
 - `OW` and `WO` would suck. I consider that scissors. Swapping `W` and `Q` won't help because then `WA` would suck.
+
 - The intended `CY`, `YC`, `PY`, `YP` alts would be less feasible. Think words like `happy` or `privacy`.
 
 ## Why not swap `X` and `Z` for lower SFB and SFS?
 - `F_X` is a skip full pinky-ring scissor (`fix`).
 - `B_X` is a 2u pinky SFS (`unboxing`).
 - `XP` is a bit awkward (`expect`).
-- At the end of the day, stats isn't everything. Comfort should come first.
 
 ## How much worse is vowel thumb space and can I use thumb R with vowel thumb?
 It is commonly known that space should be pressed with the consonant thumb because it has lower redirection and higher roll, and so why is the thumb `R` in `Dusk` on the consonant side?

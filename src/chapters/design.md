@@ -100,9 +100,13 @@ Z V K G W  ~ L ~ / ,
 ```
 because:
 - I want `NG` to be a nice roll and a good `G_T` (`-ing`, `-ght`, `get`, `got`).
+
 - `C` is usually more common, so it is on the homerow.
+
 - `Y` is there for the ease of alting `CY`, `PY`, `YP` and (optionally) `GY`.
+
 - `W` is under `Y` because `W_Y` is common, in addition to `YW` SFB. It is not above `Y` because `W_T`, `W__T`, `W__K`, `TW` and `WR` all feel awful. I am okay with `P_W` or `W_P` 2.24u SFS as they are rare.
+
 - `P` takes the last good spot and creates `PY` and `YP` alts.
 
 #### I don't want to alt!
@@ -118,7 +122,9 @@ Now you have 2 `Y` that you can choose to use according to the words in question
 
 ### `QJX`
 - `J` goes well with vowel inner top spot because `JU` accounts for most of `J` appearances.
+
 - `X` does not go well with `C` and `P` (`excel`, `expect`), so it goes to vowel inner bottom spot.
+
 - `Q` takes the last remaining index spot at consonants side.
 ```
 B F D P Q  J ~ O U .
@@ -130,7 +136,9 @@ Z V K G W  X L ~ / ,
 ### Quote Symbol `'`
 Other layouts commonly have `OA'` stack on the middle finger, but after using other layouts that have this stack, I've come to dislike it. Here is why:
 - `You'` feels like 2u SFB even if it is 2u SFS. For me, `ou` is a roll, so my middle finger tends to not leave for `'` until after `u` has been typed.
+
 - `don't` and `won't` feel just awful with how common they are.
+
 - Additionally, `a_'` is common too (`that's`, `can't`, `what's`).
 
 For the aforemetioned reasons, I decided to go with
