@@ -4,12 +4,15 @@ language = "en"
 multilingual = false
 title = "Dusk Keyboard Layout"
 
-[preprocessor.toc]
-command = "mdbook-toc"
-renderer = ["html"]
+# [preprocessor.toc]
+# command = "mdbook-toc"
+# [preprocessor.pagetoc]
+# renderer = ["html"]
 
 [output.html]
 site-url = "/dusk/"
 default-theme = "Ayu"
 preferred-dark-theme = "Ayu"
 git-repository-url="https://github.com/Aorta3698/dusk"
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]

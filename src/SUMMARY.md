@@ -7,6 +7,7 @@
  - [Statistics](chapters/stats.md)
  - [My Thoughts](chapters/thoughts.md)
  - [FAQ](chapters/faq.md)
+---------
  - [Comparison](cmp/cmp.md)
    - [Aptmak](cmp/aptmak.md)
    - [Bunya](cmp/bunya.md)
