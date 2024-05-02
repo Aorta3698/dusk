@@ -85,6 +85,7 @@ Pros:
 Cons:
 - `w_v` 2u SFS (`however`)
 - `g_v` 2.23u SFS (`give`)
+- `v__g` 2.23u SFS (`loving`)
 - `rv` and `v_r` may be weird for some (`service` and `very`).
 - 6 keys to look after for left index.
 
@@ -179,8 +180,14 @@ Z V K G W  X L ' / ,
 ```
 
 
-### The Last Spot
-It's free real estate. I decided to put underscore `_` there because I code in `C++` and `Rust` often. You can put `;` there if you'd like, or anything really.
+### Last Spot Options
+It's free real estate. I decided to put underscore `_` there because I code in `C++` and `Rust` often. 
+
+Here are some ideas:
+- `;` 
+- `Y`
+- `'`
+- Repeat Key (creates `LL` outroll)
 
 ```
 B F D P Q  J ' O U .
