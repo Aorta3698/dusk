@@ -34,7 +34,7 @@
     }
 
     @media (1180px <= width <= 1439px) {
-        .sidebar-hid[<35;42;26Mden main {
+        .sidebar-hidden  main {
             position: relative;
             left: var(--center-content-toc-shift);
         }

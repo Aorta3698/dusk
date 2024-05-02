@@ -33,7 +33,7 @@ function overflowBottom(container, element) {
 
 var activeHref = location.href;
 
-var updateFunction = function (e[<35;38;27Mlem = undefined) {
+var updateFunction = function (elem = undefined) {
   var id = elem;
 
   if (!id && location.href != activeHref) {

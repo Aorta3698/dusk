@@ -6,13 +6,12 @@ title = "Dusk Keyboard Layout"
 
 # [preprocessor.toc]
 # command = "mdbook-toc"
-# [preprocessor.pagetoc]
 # renderer = ["html"]
 
 [output.html]
 site-url = "/dusk/"
-default-theme = "Ayu"
-preferred-dark-theme = "Ayu"
+default-theme = "Rust"
+preferred-dark-theme = "Rust"
 git-repository-url="https://github.com/Aorta3698/dusk"
 additional-css = ["theme/pagetoc.css"]
 additional-js  = ["theme/pagetoc.js"]
