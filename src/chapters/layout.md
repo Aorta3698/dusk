@@ -8,9 +8,9 @@
 
 ### ACSII
 ```
-b f d p q  j ' o u .
+z f d p q  j ' o u .
 n s t c y  m h a e i
-z v k g w  x l _ / ,
+b v k g w  x l _ / ,
         r   
 ```
 
@@ -27,8 +27,8 @@ This variant has similar stats but with even lower scissor at the expense of hav
 
 ### ACSII
 ```
-b f d p v  j ' o u .
+q f d p v  j ' o u .
 n s t c y  m h a e i
-q z k g w  x l _ / ,
+b z k g w  x l _ / ,
         r                  
 ```
