@@ -2,11 +2,11 @@
 <!-- toc -->
 
 ## 11 Days In
-I have been using `Dusk` for 11 days (as of 04/27/2024) and I am currently typing this documetation with it. I am about 60 WPM on MonkeyType E200 tests now and 50 WPM on E10k test (both 2-min tests and with 99% accuracy).
+I have been using `Dusk` for 11 days (as of 04/27/2024) and I am currently typing this documentation with it. I am about 60 WPM on MonkeyType E200 tests now and 50 WPM on E10k test (both 2-min tests and with 99% accuracy).
 
 With my current typing speed, I have yet to observe any glaring issues with it. 
 
-I rarely feel any SFB or SFS at all thanks to `Dusk`'s impressive stats, and the major grip that other people have: `LSB` and `W position` don't bother me at all. 
+I rarely feel any SFB or SFS at all thanks to `Dusk`'s impressive stats, and the major gripe that other people have: `LSB` and `W position` don't bother me at all. 
 
 Additionally, I like the fact that it has almost all the common shortcuts on my left hand: 
 `CTRL-C`, `CTRL-V`, `CTRL-Z`, `CTRL-W`, `CTRL-D`. The only regrettable thing is `CTRL-X` and `CTRL-A` being 2 hands.
