@@ -3,7 +3,7 @@
 As a [Canary-ortho](https://github.com/Apsu/Canary) user for 14 months and reached about 140 wpm on MonkeyType, its flaws - high SFS and high index workload - start to bother me. 
 
 ```
-=== Canary Ortho ===
+--- Canary Ortho ---
 
 w l y p b  z f o u '
 c r s t g  m n e i a
