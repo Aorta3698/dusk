@@ -217,7 +217,7 @@ B V K G W  X L _ / ,
         R
 ```
 
-With `Z` up there, it now raises the question of whether it is worth it to swap `XZ`. Personally, I think it is worth it because 2 out of the 3 reasons that I chose `Z` instead of `X` were that `XP` is awkward and the `f_x` scissor. With these two reasons no longer applicable, I think it is worth trading the 2u pinky SFS (`box`) for 0.01% lower SFB, 0.05% lower SFS (SHAI corpus), and `XP` roll.
+With `Z` up there, it now raises the question of whether it is worth it to swap `XZ`. Personally, I think it is worth it because 2 out of the 3 reasons that I chose `Z` instead of `X` were that `XP` is awkward and the `f_x` scissor. With these two reasons no longer applicable, I think it is worth trading the rare 2u pinky SFS (`box`) for 0.01% lower SFB, 0.05% lower SFS (SHAI corpus), and `XP` roll.
 
 ```
 X F D P Q  J ' O U .

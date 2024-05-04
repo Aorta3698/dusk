@@ -9,7 +9,7 @@ With my current typing speed, I have yet to observe any glaring issues with it.
 I rarely feel any SFB or SFS at all thanks to `Dusk`'s impressive stats, and the major gripe that other people have: `LSB` and `W position` don't bother me at all. 
 
 Additionally, I like the fact that it has almost all the common shortcuts on my left hand: 
-`CTRL-C`, `CTRL-V`, `CTRL-Z`, `CTRL-W`, `CTRL-D`. The only regrettable thing is `CTRL-X` and `CTRL-A` being 2 hands.
+`CTRL-C`, `CTRL-V`, `CTRL-X`, `CTRL-W`, `CTRL-D`. The only regrettable thing is `CTRL-Z` and `CTRL-A` being 2 hands.
 
 When it comes to vim, I am editing this documentation with `Helix` and I think it is usable. I got used to using `Canary-ortho` on `Neovim` and `Helix`, and I don't see how `Dusk` is worse than `Canary-ortho` when it comes to vim motion.
 
@@ -26,7 +26,6 @@ Dusk has received some criticism in the first 14 days from the Alt Keyboard Layo
 |       2         | `'` position is questionable
 |       2         | `OUL` as in `should` redirection sucks
 |       1         | `DV` as in `advice` is somewhat common - deal breaker |
-|       1         | `B` position sucks
 
 I've attempted to address some complaints by suggesting alternative key placements which are found throughout this documentation, but ultimately `Dusk` is not designed for everyone.
 
@@ -39,28 +38,29 @@ with the command ```!cmini examples <pattern>```. Only those `>= 0.010%` are doc
 |---------|------------|------------------|----------|
 | `w_p`   | `swap`     | 2.236u SFS       | 0.010%   |
 | `p_w`   | `power`    | 2.236u SFS       | 0.059%   |
-| `k_d`   | `asked`    | 2u Middle SFS    | 0.152%   |
+| `b_x`   | `box`      | 2u Pinky SFS     | 0.026%   |
 | `f_v`   | `five`     | 2u Ring SFS      | 0.054%   |
+| `k_d`   | `asked`    | 2u Middle SFS    | 0.152%   |
 | `p__g`  | `shipping` | 2u Index SFS     | 0.184%   |
 | `k__d`  | `kind`     | 2u Middle SFS    | 0.052%   |
-| `u,`    | `you,`     | awkward          | 0.045%   |
-| `bs`    | `jobs`     | Pinky-ring HSB   | 0.109%   |
+| `u,`    | `you,`     | Pinky-ring FSS   | 0.045%   |
 | `nv`    | `involve`  | Pinky-ring HSB   | 0.162%   |
 | `e.`    | `me.`      | Pinky-ring HSB   | 0.655%   |
-| `b_v`   | `above`    | Pinky-ring FSS   | 0.029%   |
+| `b_f`   | `before`   | Pinky-ring FSS   | 0.103%   |
 | `dv`    | `advice`   | awkward          | 0.075%   |
 | `k_p`   | `skip`     | Middle-Index FSS | 0.022%   |
-| `ox`    | `box`      | awkward          | 0.047%   |
 | `dw`    | `hardware` | awkward          | 0.021%   |
 | `wd`    | `powder`   | awkward          | 0.011%   | 
-| `SUM`   |            | Sum of all above | 1.687%   | 
+| `SUM`   |            | Sum of all above | 1.631%   | 
 
 The long list above seems daunting, but is actually a vast improvement over `Canary-ortho`.
 
-#### Side Notes
+#### Magic Dusk
 If you'd like a keyboard layout without any flaw, you should look into magic keyboard layouts in which there exists a magic key that does your custom commands based on surrounding inputs.
 
-It may be possible to make `Dusk` a magic layout, but I am personally not into magic layouts.
+It may be possible to make `Dusk` a magic layout, for examples, you can swap `'_` and replace `_` with a magic key on top index (that's where most magic layouts have their magic key).
+
+If you have no idea what magic layout is, you may want to check out [Ikcelack's repo](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md).
 
 ## `Dusk` vs. `Canary-ortho`
 
