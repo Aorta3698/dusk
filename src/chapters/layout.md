@@ -27,8 +27,8 @@ This variant has similar stats but with even lower scissor at the expense of hav
 
 ### ACSII
 ```
-q f d p v  j ' o u .
+x f d p v  j ' o u .
 n s t c y  m h a e i
-b z k g w  x l _ / ,
+b q k g w  z l _ / ,
         r                  
 ```

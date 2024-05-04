@@ -16,34 +16,34 @@ Default [`local` branch](https://github.com/O-X-E-Y/oxeylyzer/commit/30c771b19c1
 dusk
 x f d p q  j ' o u . 
 n s t c y  m h a e i 
-b v k g w  z l   / , 
-Sfb:  0.527%
-Dsfb: 5.013%
-Finger Speed: 17.650
-    [1.639, 1.451, 2.028, 2.630, 2.321, 2.202, 2.636, 2.744]
-Scissors: 0.325%
-Lsbs: 2.182%
+b v k g w  z l ; / , 
+Sfb:  0.525%
+Dsfb: 4.911%
+Finger Speed: 17.338
+    [1.639, 1.451, 2.028, 2.630, 2.321, 1.890, 2.636, 2.744]
+Scissors: 0.311%
+Lsbs: 2.175%
 Pinky Ring Bigrams: 1.768%
 
-Inrolls: 19.912%
-Outrolls: 19.893%
-Total Rolls: 39.805%
+Inrolls: 19.922%
+Outrolls: 19.897%
+Total Rolls: 39.820%
 Onehands: 1.250%
 
-Alternates: 20.966%
-Alternates (sfs): 5.146%
-Total Alternates: 26.112%
+Alternates: 20.976%
+Alternates (sfs): 5.151%
+Total Alternates: 26.127%
 
-Redirects: 2.650%
-Redirects Sfs: 1.491%
-Bad Redirects: 0.276%
-Bad Redirects Sfs: 0.110%
-Total Redirects: 4.527%
+Redirects: 2.652%
+Redirects Sfs: 1.492%
+Bad Redirects: 0.277%
+Bad Redirects Sfs: 0.111%
+Total Redirects: 4.531%
 
-Bad Sfbs: 0.331%
+Bad Sfbs: 0.332%
 Sft: 0.010%
 
-Score: -1.522
+Score: -1.491
 ```
 
 ## Genkey
