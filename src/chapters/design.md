@@ -156,6 +156,8 @@ It does create `h_'` SFS, but it is about as common as `a_'`.
 Embrace the `OA'` stack like the layout below shows - all the pros and cons have been explained above.
 
 You may want to swap `J~`.
+
+This results in about 0.02% lower SFB and 0.10% higher SFS.
 ```
 B F D P Q  J ~ O U .
 N S T C Y  M H A E I
