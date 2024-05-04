@@ -6,7 +6,7 @@
 ![](../assets/heatmap.png)
 
 ## Oxeylyzer
-Default [`local` branch](https://github.com/O-X-E-Y/oxeylyzer/commit/30c771b19c1d54b5b5d9da181692130515a6713c) setting with keyboard type set to `colstag`.
+`main` branch at [commit](https://github.com/O-X-E-Y/oxeylyzer/commit/192e2e38a2ec0e9a13c7ff11f0bf00b65bf1105b) setting with keyboard type set to `colstag`.
 
 - No thumb key support
 - Highest finger speed is on right pinky at 2.744

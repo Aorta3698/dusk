@@ -67,45 +67,53 @@ If you have no idea what magic layout is, you may want to check out [Ikcelaks's 
 ### Scissors
 Info obtained from Keysolve.
 
-| Metric | Difference | Value (Dusk) |
-|--------|------------|-------|
-|  HSB   |  -1.27%    | 2.10% |
-|  HSS   |  -1.13%    | 5.20% |
-|  FSB   |  -0.08%    | 0.02% |
-|  FSS   |  -0.45%    | 0.13% |
+| Metric | Diff       | Dusk  | Canary |
+|--------|------------|-------|--------|
+|  HSB   |  -1.28%    | 2.09% | 3.37%  |
+|  HSS   |  -1.65%    | 4.68% | 6.33%  |
+|  FSB   |  -0.08%    | 0.02% | 0.10%  |
+|  FSS   |  -0.47%    | 0.11% | 0.58%  |
 
 ### 2u SFS
 Info obtained from Cyanophage.
 
-| Metric | Difference | Value (Dusk) |
-|--------|------------|-------|
-|  2u SFS   |  -0.04%    | 0.11% |
+| Metric    | Diff       | Dusk  | Canary |
+|-----------|------------|-------|--------|
+|  2u SFS   |  -0.04%    | 0.11% | 0.15%  |
 
 It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho` into account (`very`, `back`, `park`), so in actuality, it is better than just 0.04% reduction.
 
 ### Various info
 Info obtained from Oxeylyzer.
 
-| Metric | Difference | Value (Dusk) |
-|--------|------------|-------|
-|  SFB   |  -0.342%    | 0.527% |
-|  SFS   |  -3.019%    | 4.950% |
-|  Finger Speed   |  -1.882    | 4.189 |
-|  Top Finger Speed | -0.877 | 0.769 (RR) | 
-|  LSB   |  -0.354%    | 2.179% |
+| Metric            | Diff         | Dusk       | Canary     |
+|-------------------|--------------|------------|------------|
+|  SFB              |  -0.347%     | 0.525%     | 0.869%     |
+|  SFS              |  -3.058%     | 4.911%     | 7.969%     |
+|  Finger Speed     |  -7.512      | 17.338     | 24.850     |
+|  Top Finger Speed |  -4.795      | 2.744 (RP) | 7.539 (LI) |
+|  LSB              |  -0.358%     | 2.175%     | 2.533%     |
 
 ### Quotes
 Info obtained from Cmini with Monkeyracer corpus.
 
-| Metric | Difference | Value (Dusk) |
-|--------|------------|--------|
-|  SFB   |  -0.58%    | 0.38%  |
-|  SFS   |  -3.86%    | 3.77%  |
-|  Red   |  +0.03%    | 3.32%  |
-|  Alt   |  +4.55%    | 28.22% |
-|  Rol   |  -0.82%    | 47.95% |
+| Metric | Diff       | Dusk   | Canary |
+|--------|------------|--------|--------|
+|  SFB   |  -0.58%    | 0.38%  | 0.96%  | 
+|  SFS   |  -3.87%    | 3.76%  | 7.63%  |
+|  Red   |  +0.04%    | 3.33%  | 3.29%  |
+|  Alt   |  +4.49%    | 28.16% | 23.67% |
+|  Rol   |  +0.86%    | 47.99% | 47.13% |
 
-Note that 28.22% is not considered to be high alt. `Graphite` has 31.94% and `Semimak-JQ` has 32.66%. `Canary-ortho` having 23.67% alt is remarkably low and it was designed to be that way.
+Note that 28.16% is not considered to be high alt. `Graphite` has 31.94% and `Semimak-JQ` has 32.66%. `Canary-ortho` having 23.67% alt is remarkably low and it was designed to be that way.
+
+### Flowy-meter
+This is subjective.
+
+| Metric | Dusk   | Canary |
+|--------|--------|--------|
+| Flowy  | No     | Yes    |
+
 
 ## Addressing `P_W` and `W_P`
 I do not think it is worth it to swap `WQ` or `PG` to address this 2.24u SFS. Instead, addressing it by hitting `P` with middle finger and `W` with index finger is my suggestion.
