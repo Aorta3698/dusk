@@ -207,7 +207,7 @@ Z V K G W  X L _ / ,
 ```
 
 ## Final Adjustment
-One user of Dusk `brownfoxjumps` mentioned that he felt it is better to swap `BZ`. I have to say that I agree with him.
+One user of Dusk `brownfoxjumps` mentioned that he felt it is better to swap `BZ`. I have to say that I agree with him having used Dusk for 14 days myself. 
 As `Dusk` it is now, words like `above`, `back`, `break`, and `obvious` all require whole hand movement due to skip gram scissors. If `BZ` is swapped, then the only key that would be of concern is the top ring key `F`, but `B` and `F` don't really interact with each other much at all - except for the word `before`. `b_d` still doesn't require hand movement and feels fine. I decided that swapping `BZ` is worth it.
 
 ```
