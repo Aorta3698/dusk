@@ -6,11 +6,12 @@
 ![](../assets/heatmap.png)
 
 ## Oxeylyzer
-`main` branch at [commit](https://github.com/O-X-E-Y/oxeylyzer/commit/192e2e38a2ec0e9a13c7ff11f0bf00b65bf1105b) setting with keyboard type set to `colstag`.
+`main` branch at [this commit](https://github.com/O-X-E-Y/oxeylyzer/commit/192e2e38a2ec0e9a13c7ff11f0bf00b65bf1105b) with default settings and keyboard type set to `colstag`.
 
-- No thumb key support
-- Highest finger speed is on right pinky at 2.744
-- Pinky-Ring Bigrams: 1.768%
+| Metric                          | Dusk           |
+|---------------------------------|----------------|
+| Highest finger speed            | 2.774 (RP)     |
+| Pinky-Ring Bigramn              | 1.768%         |
 
 ```
 dusk
@@ -47,9 +48,10 @@ Score: -1.491
 ```
 
 ## Genkey
-- No thumb key support
-- Highest finger speed is on right index at 1.55
 
+| Metric                          | Dusk           |
+|---------------------------------|----------------|
+| Highest finger speed            | 1.55 (RI)      |
 ```
 dusk
 x f d p q  j ' o u . 
@@ -85,9 +87,12 @@ Score: 27.00
 ```
 
 ## Krillyzer
-- Krillyzer is mainly used for analyzing SFS and SFBS distance
-- SFS distance at 1.151
-- SFB distance at 1.335
+Krillyzer is mainly used for analyzing SFS and SFBS distance
+
+| Metric                          | Dusk           |
+|---------------------------------|----------------|
+| SFS distance                    | 1.151          |
+| SFB distance                    | 1.335          |
 
 ```
 Dusk
@@ -126,12 +131,14 @@ Hand Balance
 ```
 
 ## Keysolve
-- It only support right thumb key, so it needs to be mirrored.
-- I mainly look at HSB, HSS, FSB, and FSS here.
-  - HSB: 2.09%
-  - HSS: 4.68%
-  - FSB: 0.02%
-  - FSS: 0.11%
+It only support right thumb key, so it needs to be mirrored.
+
+| Metric                          | Dusk           |
+|---------------------------------|----------------|
+| Half Scissor Bigrams            | 2.09%          |
+| Half Scissor Skipgrams          | 4.68%          |
+| Full Scissor Bigrams            | 0.02%          |
+| Full Scissor Skipgrams          | 0.11%          |
 
 ![](../assets/keysolve.png)
 
@@ -192,14 +199,12 @@ Row Use
        Top - 23.02%         Home - 63.61%       Bottom - 13.37%
 ```
 ## Cyanophage
+This website gets mentioned a lot lately and for a good reason - it is one of the most accessible playground for keyboard layouts creations that exist as of April 2024, but a few things to keep in mind:
 - Its finger usage doesn't include the thumb `R` or space.
-- It was speculated that its SFS include space, so it is much lower than other tools.
-- SFB: 0.39%
-- SFS: 2.16%
-- LSB: 1.52%
+- It was speculated that all its stats include space, so they are all much lower than those from the other tools.
 
 ### Regarding Scissors
-I am not on board with how Cyanophage calculates scissors (05/04/2024), for examples, `zo` and `vp` on dusk are not considered as scissors, but `lo` is, and there is no consideration for half scissors like `pt` or `ft` at all. Additionally, Cyanophage considers `nf` and `e,` to be scissors, but they are not normally considered to be scissors.
+I am not on board with how Cyanophage calculates scissors; for examples, `zo` and `vp` on dusk are not considered as scissors, but `lo` is, and there is no consideration for half scissors like `pt` or `ft` at all. Additionally, Cyanophage considers `nf` and `e,` to be scissors, but they are not normally considered to be scissors.
 
 ![](../assets/cyan.png)
 
