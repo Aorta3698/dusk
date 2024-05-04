@@ -60,7 +60,7 @@ If you'd like a keyboard layout without any flaw, you should look into magic key
 
 It may be possible to make `Dusk` a magic layout, for examples, you can swap `'_` and replace `_` with a magic key on top index (that's where most magic layouts have their magic key).
 
-If you have no idea what magic layout is, you may want to check out [Ikcelack's repo](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md).
+If you have no idea what magic layout is, you may want to check out [Ikcelaks's repo](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md).
 
 ## `Dusk` vs. `Canary-ortho`
 
