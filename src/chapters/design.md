@@ -203,3 +203,23 @@ N S T C Y  M H A E I
 Z V K G W  X L _ / ,
         R
 ```
+
+## Final Adjustment
+One user of Dusk `brownfoxjumps` mentioned that he felt it is better to swap `BZ`. I have to say that I agree with him.
+As `Dusk` it is now, words like `above`, `back`, `break`, and `obvious` all require whole hand movement due to skip gram scissors. If `BZ` is swapped, then the only key that would be of concern is the top ring key `F`, but `B` and `F` don't really interact with each other much at all - except for the word `before`. `b_d` still doesn't require hand movement and feels fine. I decided that swapping `BZ` is worth it.
+
+```
+Z F D P Q  J ' O U .
+N S T C Y  M H A E I
+B V K G W  X L _ / ,
+        R
+```
+
+With `Z` up there, it now raises the question of whether it is worth it to swap `XZ`. Personally, I think it is worth it because 2 out of the 3 reasons that I chose `Z` instead of `X` were that `XP` is awkward and the `f_x` scissor. With these two reasons no longer applicable, I think it is worth trading the 2u pinky SFS (`box`) for 0.01% lower SFB, 0.05% lower SFS (SHAI corpus), and `XP` roll.
+
+```
+X F D P Q  J ' O U .
+N S T C Y  M H A E I
+B V K G W  Z L _ / ,
+        R
+```
