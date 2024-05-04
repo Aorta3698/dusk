@@ -72,7 +72,7 @@ Z V K ~ ~  ~ L ~ / ,
 ```
 
 #### Wait a minute!
-You may think, "wait a minute! but that creates `NV` and `DV` scissors!". Yes, I hear you, so there is another variant [`dusk-vqz`](./layout.md#dusk-vqz) that addresses this concern.
+You may think, "wait a minute! but that creates `NV` and `DV` scissors!". Yes, I hear you, so there is another variant [`dusk-vq`](./layout.md#dusk-vq) that addresses this concern.
 
 What's the trade-off?
 

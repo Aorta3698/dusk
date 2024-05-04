@@ -14,7 +14,7 @@ b v k g w  z l _ / ,
         r   
 ```
 
-## Dusk-vqz
+## Dusk-vq
 It's made to address concern over `V`.
 
 This variant has similar stats but with even lower scissor at the expense of having left index do more work and higher 2u SFS from `g_v`.

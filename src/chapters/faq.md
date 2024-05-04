@@ -35,7 +35,7 @@ Explore these options:
 - [Option 3](./design.md#alternative-3)
 
 ## I hate where `V` is!
-Consider [`Dusk-qvz`](./layout.md#dusk-qvz).
+Consider [`Dusk-qv`](./layout.md#dusk-qv).
 
 ## I hate `Y` due to SFBs
 Explore [this option](./design.md#i-dont-want-to-alt).
