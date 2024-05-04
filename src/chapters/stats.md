@@ -198,6 +198,9 @@ Row Use
 - SFS: 2.16%
 - LSB: 1.52%
 
+### Regarding Scissors
+I am not on board with how Cyanophage calculates scissors (05/04/2024), for examples, `zo` and `vp` on dusk are not considered as scissors, but `lo` is, and there is no consideration for half scissors like `pt` or `ft` at all. Additionally, Cyanophage considers `nf` and `e,` to be scissors, but they are not normally considered to be scissors.
+
 ![](../assets/cyan.png)
 
 ## 2U SFS
