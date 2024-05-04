@@ -5,29 +5,8 @@
 ## Compare Canary to Dusk is not fair!
 Yes, I agree, but I used to main `Canary-ortho`, it makes sense for me to compare them.
 
-Feel free to compare `Dusk` against other thumb layouts such as `Pine-y`, `Sturdy-thumbn`, `Aptmak`, `Bunya`, or `Chrono`.
+For comparison with other thumb layouts, check out [Comparison](./cmp.md).
 
-`Chrono` (another layout of mine) beats `Dusk` for having even lower SFS, low LSB, and no inner corner key like `W` in `Dusk`, but in exchange getting `LK` ring-middle full scissor, `RL` SFB, and `BR` scissor.
-
-```
-chrono
-  b l d p z  q w o u .
-  n r t h y  g c a e i
-  x j k f v  ' m ; / ,
-        s                   
-
-MONKEYRACER:
-  Alt: 30.72%
-  Rol: 44.80%   (In/Out: 26.31% | 18.49%)
-  One:  1.95%   (In/Out:  0.71% |  1.24%)
-  Rtl: 46.75%   (In/Out: 27.02% | 19.73%)
-  Red:  3.67%   (Bad:     0.38%)
-
-  SFB: 0.53%
-  SFS: 3.67%    (Red/Alt: 0.98% | 2.69%)
-
-  LH/RH: 49.94% | 50.06%
-```
 ## I hate where ' is!
 Explore these options:
 - [Option 1](./design.md#alternative-1)
@@ -47,11 +26,6 @@ Explore [this option](./design.md#i-dont-want-to-alt).
 
 - The intended `CY`, `YC`, `PY`, `YP` alts would be less feasible. Think words like `happy` or `privacy`.
 
-## Why not swap `X` and `Z` for lower SFB and SFS?
-- `F_X` is a skip full pinky-ring scissor (`fix`).
-- `B_X` is a 2u pinky SFS (`unboxing`).
-- `XP` is a bit awkward (`expect`).
-
 ## How much worse is vowel thumb space and can I use thumb R with vowel thumb?
 It is commonly known that space should be pressed with the consonant thumb because it has lower redirection and higher roll, and so why is the thumb `R` in `Dusk` on the consonant side?
 
@@ -68,11 +42,11 @@ If you
 
 then SFB is almost none, leaving really only `GY`, `LM`, `I.`, and `I,`. None of which is common (unless you type `almost` a lot).
 
-## I despise alting, can I re-arrange index letters?
+## Can I re-arrange index letters?
 Yes - arrange them how you like them!
 
 ## Can I use `Dusk` on a rowstag keyboard?
-It is possible to do so with wide mod, but `Dusk` was designed for colstag keyboards, so I can't say the experience would be good. You may or may not want to re-arrange some index keys.
+It is possible to do so with wide mod, but `Dusk` was designed for colstag keyboards, so I can't say the experience would be good. You may or may not want to re-arrange some letters.
 
 ## Is Dusk good for e200 on MonkeyType?
 It is :D
@@ -80,9 +54,9 @@ It is :D
 It doesn't have any SFB (0.00%) on e200 and with remarkably low SFS as well.
 ```
 dusk
-  b f d p q  j ' o u .
+  x f d p q  j ' o u .
   n s t c y  m h a e i
-  z v k g w  x l _ / ,
+  b v k g w  z l _ / ,
           r                 
 
 ENGLISH-200:
@@ -95,7 +69,7 @@ ENGLISH-200:
   SFB: 0.00%
   SFS: 3.34%    (Red/Alt: 1.56% | 1.78%)
 
-  LH/RH: 47.04% | 52.96%  
+  LH/RH: 47.04% | 52.96%
 ```
 
 ## `W` position... Really?
@@ -107,21 +81,15 @@ I hesitate to recommend `Dusk_optimized` for the following reasons:
 
 - Words like `prob`, `problem`, `public` being 2 row ring jump (much more freq than `f_v` or `f__v` on `Dusk`).
 
-- There are some interaction with `P` and `K` such as `park` and `speak`.
+- Frequent `nk` half scissor.
 
-- Interaction between `W` and `K`: `know`, `weak`, `woke` (`know` alone would be a deal breaker for me).
-
-- Frequent `nk` half scissor and `w_t`, `w__t` skip half scissor.
-
-- `nf` being out-roll scissor (I found pinky-ring scissor better as in-roll).
-
-Swapping `WG` addresses some of the concerns above, but you get worse `ng` and `g_t`.
+- Worse `ng` and `g_t`.
 
 ```
 dusk_optimized
-  f p d w q  j ' o u .
+  z p d g q  j ' o u .
   s n t c y  m h a e i
-  z b k g v  x l _ / ,
+  f b k w v  x l _ / ,
           r                   
 
 MONKEYRACER:
