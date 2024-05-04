@@ -14,7 +14,7 @@
 
 Coming from Canary, I'd like to focus on keeping its low scissors and 2u SFS, while optimizing for SFS and keeping an eye on SFB.
 
-`Dusk` was designed with info obtained with corpus made out of MonkeyType and Typeracer quotes (duplicates removed).
+`Dusk` was designed with info obtained with corpus made out of MonkeyType and Typeracer quotes (duplicates removed), with some SHAI corpus sprinkled in.
 
 ## Vowel Block
 I decided to go with the popular vowel block
@@ -53,7 +53,7 @@ To avoid `RL` SFB, I decided to put `R` on a thumb key (as opposed to the `RN` s
 ### `BNZ`
 I like the idea of having `N` on the pinky because they promote inroll with `S`, `T`, `C` and tend to be have lower redirection and scissors especially now that `R` is gone (usually `N` pinky layouts end up with `BR` scissor like in `Graphite` and `Gallium`).
 
-`N` doesn't interact with `B` much and with a low-usage key `Z`, `BNZ` goes to pinky.
+`N` doesn't interact with `B` much and with a low-usage key `Z`, `BNZ` goes to pinky. `X` wasn't chosen out of concerns for the interactions with the columns that follow below.
 
 ```
 B ~ D ~ ~  ~ ~ O U .
@@ -207,8 +207,8 @@ Z V K G W  X L _ / ,
 ```
 
 ## Final Adjustment
-One user of Dusk `brownfoxjumps` mentioned that he felt it is better to swap `BZ`. I have to say that I agree with him having used Dusk for 14 days myself. 
-As `Dusk` it is now, words like `above`, `back`, `break`, and `obvious` all require whole hand movement due to skip gram scissors. If `BZ` is swapped, then the only key that would be of concern is the top ring key `F`, but `B` and `F` don't really interact with each other much at all - except for the word `before`. `b_d` still doesn't require hand movement and feels fine. I decided that swapping `BZ` is worth it.
+One user of Dusk, `brownfoxjumps`, mentioned that he felt it is better to swap `BZ`. I have to say that I agree with him having used Dusk for 14 days myself. 
+As `Dusk` it is now, words like `above`, `back`, `break`, and `obvious` all require whole hand movement due to skipgram scissors. If `BZ` is swapped, then the only key that would be of concern is the top ring key `F`, but `B` and `F` don't really interact with each other much at all - except for the word `before`. `b_d` and `prob-` still don't require hand movement and feel fine. I decided that swapping `BZ` is worth it.
 
 ```
 Z F D P Q  J ' O U .
@@ -217,7 +217,7 @@ B V K G W  X L _ / ,
         R
 ```
 
-With `Z` up there, it now raises the question of whether it is worth it to swap `XZ`. Personally, I think it is worth it because 2 out of the 3 reasons that I chose `Z` instead of `X` were that `XP` is awkward and the `f_x` scissor. With these two reasons no longer applicable, I think it is worth trading the rare 2u pinky SFS (`box`) for taking 0.01% lower SFB and 0.05% lower SFS (SHAI corpus) off from the finger with the highest SFS and SFB, and that sweet `XP` inroll.
+With `Z` up there, it now raises the question of whether it is worth it to swap `XZ`. Personally, I think it is worth it because 2 out of the 3 reasons that I chose `Z` instead of `X` were that `XP` is awkward and the `f_x` scissor. With these two reasons no longer applicable, I think it is worth trading the rare 2u pinky SFS (`box`) for taking 0.01% lower SFB and 0.05% lower SFS (SHAI corpus) off from the finger with the highest SFS and SFB, and that sweet `XP` inroll (`expect`, `experience`).
 
 ```
 X F D P Q  J ' O U .
