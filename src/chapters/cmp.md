@@ -297,26 +297,26 @@ This layout is solid all around, but `LHM` ring certainly isn't for everyone due
 ## Outrroll
 ```
 outrroll (yappi_)
-  x l d f q  ‘ y o u ,
+  x l d f q  ' y o u ,
   s h t n b  g c a e i
   v m k p z  j w ; / .
         r                   
 
 MONKEYRACER:
-  Alt: 32.54%
-  Rol: 41.48%   (In/Out: 16.03% | 25.46%)
+  Alt: 33.87%
+  Rol: 42.06%   (In/Out: 16.58% | 25.48%)
   One:  2.74%   (In/Out:  0.32% |  2.42%)
-  Rtl: 44.22%   (In/Out: 16.35% | 27.87%)
-  Red:  2.35%   (Bad:     0.40%)
+  Rtl: 44.80%   (In/Out: 16.90% | 27.90%)
+  Red:  2.50%   (Bad:     0.40%)
 
-  SFB: 0.37%
-  SFS: 3.79%    (Red/Alt: 0.57% | 3.22%)
+  SFB: 0.43%
+  SFS: 3.84%    (Red/Alt: 0.61% | 3.22%)
 
-  LH/RH: 50.27% | 49.73%
+  LH/RH: 49.89% | 50.11%
 ```
 Made by `yappi`, a frequenter on AKL discord.
 
-This layout has almost indentical SFS and SFB as Dusk, and it doesn't have the `W` index corner key nor the LSB that Dusk has.
+This layout has similar SFS and SFB as Dusk, and it doesn't have the `W` index corner key nor the LSB that Dusk has.
 
 What's the catch? The catch to achieve all that is the heavy and high movement `LHM` ring, in addition to the `LK` and `SM` scissors (`talk` and `small`).
 
