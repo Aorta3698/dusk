@@ -1,5 +1,5 @@
 # Comparison
-Under Construction.
+Here you can find my thoughts and hopefully, a charitable description of them.
 
 ## Aptmak
 ```
@@ -21,6 +21,12 @@ MONKEYRACER:
 
   LH/RH: 42.76% | 57.24%
 ```
+Made by `Apsu`, one of the main creators of the beloved `Canary` (2nd most loved layout).
+
+[Aptmak](https://github.com/Apsu/aptmak) has been the go-to option for thumb layout recommendation in AKL discord server. It is the most established thumb layout and has had many users using it full time. It's design goal, as I understand it, is to make a thumb layout based on Colemak and usable for 23332 keyboards.
+
+While its stats on SFS and SFB are not as impressive as Dusk, it's a good choice for people who dislike LSB and don't want to be bothered with relearning to press space with another thumb.
+
 
 ## Bunya
 ```
@@ -42,6 +48,15 @@ MONKEYRACER:
 
   LH/RH: 48.19% | 51.81%
 ```
+Made by the creator of the beloved `Gallium` (3rd most loved layout).
+
+`Bunya` is based on `Gallium` and is currently the best thumb `S` layout that `GalileoBlues` has as of April 2024. 
+
+Stats wise, it's got SFS and SFB that rival Dusk with a higher focus on alternation. It has lower redirection and likely more annoying scissors such as `LV` (`involve`) and `BR` (`break`). From a quick glance, it should have a similar 2u SFS as Dusk.
+
+Some obvious cons are that `RL` SFB is unfortuately a true SFB that can't be alt-fingered and that double thumb `ss` is quite common (`less`, `miss`, `across`, `pass`, `guess`).
+
+Overall, `Bunya` is a very solid thumb layout and likely one of the best thumb `S` layouts to date.
 
 ## Pine-y
 ```
@@ -63,6 +78,23 @@ MONKEYRACER:
 
   LH/RH: 42.63% | 57.37%
 ```
+This layout is based on [`Pine-v4`](https://github.com/ClemenPine/PineV4), made by ClemenPine. It boasts the highest speed rating and 3rd most comfort rating on the [layout battle website](https://keyboard-layout-battles.fly.dev/layout).
+
+`RST` homerow is familiar to many as it is the same homerow found on Colemak as well, and I personlly believe that having `T` on index feels quite good as there are many words that end with `T`, promoting inroll that ends on the strongest finger.
+
+Aside from `BO` scissor (`about`), there really isn't many scissors in this layout, achieved by having 3 dead letters on left hand pinky, ring, and middle fingers. 2u SFS may be a bit higher than Dusk due to `k__g` (`looking`, `thinking`) and `m_g` (`might`) if that's something you care about.
+
+All the while having competitive SFS and SFB stats. Overall, this is the layout that I like the most out of the 3 that we've discussed thus far.
+
+If you want to use `Pine-y`, I would recommend that you do
+```
+q l c m k  ' f o u .  
+n r s t w  p h a e i
+j x z g v  b d ; / ,  
+           y                     
+```
+
+
 
 ## Sturdy-thumbn
 ```
@@ -84,6 +116,13 @@ MONKEYRACER:
 
   LH/RH: 48.46% | 51.54%
 ```
+Made by the creator of `Sturdy`, the 4th most loved layout on AKL discord, and `Oxey` recommends `sturdy_thumbn` for those who seek a thumb layout variant based on `Sturdy`.
+
+By having `N` on thumb, it addresses the `K` scissor-related issues that people have with `Sturdy`. Additionally, it now has one dead key `Q` on the left index, which drastically lowers the finger with the highest finger speed on `Sturdy`.
+
+`Sturdy-thumbn` is an overall improvement on `Sturdy` and with SFS and SFB stats comparable to Dusk as well. I, however, do not like the fact that `ML` (`almost`) and `PO` (`people`, `open`, `stop`, `hope`, `top`) as I found these stretches are not really comfortable on colstag (`Piantor Pro`).
+
+
 
 ## SturdE
 ```
@@ -105,10 +144,11 @@ MONKEYRACER:
 
   LH/RH: 43.33% | 56.67%
 ```
+`Oxey` doesn't recommend this over `sturdy-thumbn` and I can see why: it doesn't really address most issues that people have with `Sturdy`. I agree with `Oxey` here.
 
 ## SNTH
 ```
-snthr (nehcro)
+snth
   x p d m q  = y o u ,
   s n t h v  g c a e i
   f b k l j  z w ' / .
@@ -126,6 +166,27 @@ MONKEYRACER:
 
   LH/RH: 49.97% | 50.03%
 ```
+Made by `Hands Down` creator, a common presence on AKL subreddit.
+
+It is similar to Dusk, and so it makes more sense to compare them.
+
+Pros:
+- Much lower LSB than Dusk.
+- No corner key like `W` in Dusk.
+
+Subjective:
+- More alternation and less roll than Dusk
+
+Cons:
+- Similar SFB, but higher SFS.
+- `MB` full scissor (`number`).
+- Some may be bothered by the `PL` (`simple`) and `LD` (`should`) motions.
+- More 2u SFS (`fix`, `public`, `small`).
+- More half scissors (`nk`, `m_k` as in `make`).
+
+I wouldn't recommend `SNTH` largely for the same reason that I wouldn't recommend `Dusk_optimized`.
+
+
 
 ## Snth-wuv
 ```
@@ -147,6 +208,13 @@ MONKEYRACER:
 
   LH/RH: 45.37% | 54.63%
 ```
+Made by `ddn`, a really helpful person in AKL discord.
+
+`Snth-wuv` is impressive in a way that it has similar SFB but with noticeably lower SFS than Dusk.
+
+Some cons may be:
+- `RK` and `GO` scissors as they are quite common (`work` and `go`)
+- Heavy ring `RNX` stack.
 
 ## Strand
 ```
@@ -168,6 +236,15 @@ MONKEYRACER:
 
   LH/RH: 48.46% | 51.54%
 ```
+Made by `val0rance`, a frequenter on AKL discord.
+
+Having 3 dead keys just like Pine-y and sturdy-thumbn ensures that there isn't going to be awkward scissors, but it still has `LK` (`talk`) and `PO` (`top` and `people`) full index-middle stretch on the index.
+
+Overall, it is a decent layout and in many ways reminds me of sturdy-thumbn by Oxey.
+
+
+
+
 
 ## Zanycat
 ```
@@ -189,6 +266,9 @@ MONKEYRACER:
 
   LH/RH: 37.39% | 62.61%
 ```
+Made by ClemenPine with a goal to minimize SFS and SFB. It has slightly higher SFB than Dusk, but does achieve lower SFS.
+
+ClemenPine themselves does not seem to recommend this layout. I agree with them here because of the common `PI` scissor (`piece` and `stupid`) and `SY` on ring is probably suboptimal (`system`).
 
 ## Racket
 ```
@@ -210,6 +290,9 @@ MONKEYRACER:
 
   LH/RH: 49.09% | 50.91%
 ```
+Made by the creator of `Gallium` (2nd most loved layout on AKL discord).
+
+This layout is solid all around, but `LHM` ring certainly isn't for everyone due to its high movement and 2u SFS, in addition to the `LK` scissor (`talk`).
 
 ## Outrroll
 ```
@@ -231,6 +314,13 @@ MONKEYRACER:
 
   LH/RH: 50.27% | 49.73%
 ```
+Made by `yappi`, a frequenter on AKL discord.
+
+This layout has almost indentical SFS and SFB as Dusk, and it doesn't have the `W` index corner key nor the LSB that Dusk has.
+
+What's the catch? The catch to achieve all that is the heavy and high movement `LHM` ring, in addition to the `LK` and `SM` scissors (`talk` and `small`).
+
+Is the trade worth it? for me it is not worth it, but maybe it is for you!
 
 ## Snert
 ```
@@ -252,3 +342,8 @@ MONKEYRACER:
 
   LH/RH: 49.96% | 50.04%
 ```
+Made by `val0rance`, a frequenter on AKL discord.
+
+Some people like having `T` on index, and `Snert` doesn't have the high index movement that some other index `T` layouts have. 
+
+I think it should swap `BP` to address `bl` (`able`) and `mp` (`important`) though, but then `SP` scissor gets created (`space`).
