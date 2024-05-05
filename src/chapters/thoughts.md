@@ -22,7 +22,7 @@ Dusk has received some criticism in the first 14 days from the Alt Keyboard Layo
 |-----------------|-----------|
 |       4         | `W` position is subpar for how frequent it is
 |       3         | `K` position creates `CK` and `SK` half scissors - deal breaker |
-|       2         | `V` position creates `NV` scissors and an awkard `DV` and it is bad |
+|       2         | `V` position creates `NV` scissors and an awkward `DV` and it is bad |
 |       2         | `'` position is questionable
 |       2         | `OUL` as in `should` redirection sucks
 |       1         | `DV` as in `advice` is somewhat common - deal breaker |
