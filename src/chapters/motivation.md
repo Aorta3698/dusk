@@ -12,7 +12,7 @@ q j v d k  x h / , .
 
 
 In particular, I don't vibe with:
-- `B_D` and all the `K` interaction with `B__K` (`back`) and `P__K` (`pack`) leading to 2u/2.24u SFS.
+- `B_D` and all the `K` interaction with `B__K` (`back`) leading to 2u SFS.
 
 - That feeling that left index is flying all over the place at high speed.
 
