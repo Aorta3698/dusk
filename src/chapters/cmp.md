@@ -78,9 +78,9 @@ MONKEYRACER:
 
   LH/RH: 42.51% | 57.49%
 ```
-This layout is based on [`Pine-v4`](https://github.com/ClemenPine/PineV4), made by ClemenPine. It boasts the highest speed rating and 3rd most comfort rating on the [layout battle website](https://keyboard-layout-battles.fly.dev/layout).
+This layout is based on [`Pine-v4`](https://github.com/ClemenPine/PineV4) from ClemenPine. It boasts the highest speed rating and 3rd most comfort rating on the [layout battle website](https://keyboard-layout-battles.fly.dev/layout).
 
-`RST` homerow is familiar to many as it is the same homerow found on Colemak as well, and I personlly believe that having `T` on index feels quite good as there are many words that end with `T`, promoting inroll that ends on the strongest finger.
+`RST` homerow is familiar to many as it is the same homerow found on Colemak as well, and I personally believe that having `T` on index feels quite good as there are many words that end with `T`, promoting inroll that ends on the strongest finger.
 
 Aside from `BO` scissor (`about`), there really isn't many scissors in this layout, achieved by having 3 dead letters on left hand pinky, ring, and middle fingers. 2u SFS may be a bit higher than Dusk due to `k__g` (`looking`, `thinking`) and `m_g` (`might`) if that's something you care about.
 
