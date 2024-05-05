@@ -10,16 +10,16 @@ aptmak (Eve)
                e                   
 
 MONKEYRACER:
-  Alt: 23.73%
-  Rol: 46.03%   (In/Out: 29.33% | 16.70%)
-  One:  3.21%   (In/Out:  2.35% |  0.86%)
-  Rtl: 49.23%   (In/Out: 31.68% | 17.55%)
-  Red:  5.32%   (Bad:     1.55%)
+  Alt: 24.36%
+  Rol: 47.84%   (In/Out: 30.52% | 17.31%)
+  One:  3.26%   (In/Out:  2.38% |  0.88%)
+  Rtl: 51.10%   (In/Out: 32.91% | 18.19%)
+  Red:  5.75%   (Bad:     1.75%)
 
-  SFB: 1.07%
-  SFS: 5.44%    (Red/Alt: 2.42% | 3.02%)
+  SFB: 1.10%
+  SFS: 5.56%    (Red/Alt: 2.48% | 3.08%)
 
-  LH/RH: 42.76% | 57.24%
+  LH/RH: 42.79% | 57.21%
 ```
 Made by `Apsu`, one of the main creators of the beloved `Canary` (2nd most loved layout).
 
@@ -37,16 +37,16 @@ bunya (GalileoBlues)
         s                   
 
 MONKEYRACER:
-  Alt: 32.88%
-  Rol: 43.53%   (In/Out: 19.23% | 24.30%)
-  One:  2.40%   (In/Out:  0.45% |  1.95%)
-  Rtl: 45.93%   (In/Out: 19.68% | 26.25%)
-  Red:  1.96%   (Bad:     0.34%)
+  Alt: 33.87%
+  Rol: 45.23%   (In/Out: 19.87% | 25.36%)
+  One:  2.61%   (In/Out:  0.45% |  2.16%)
+  Rtl: 47.84%   (In/Out: 20.32% | 27.52%)
+  Red:  2.00%   (Bad:     0.34%)
 
-  SFB: 0.53%
-  SFS: 4.03%    (Red/Alt: 0.59% | 3.44%)
+  SFB: 0.55%
+  SFS: 4.15%    (Red/Alt: 0.61% | 3.54%)
 
-  LH/RH: 48.19% | 51.81%
+  LH/RH: 48.13% | 51.87%
 ```
 Made by the creator of the beloved `Gallium` (3rd most loved layout).
 
@@ -67,16 +67,16 @@ pine-y (infiniteplayer)
                y                     
 
 MONKEYRACER:
-  Alt: 31.48%
-  Rol: 41.88%   (In/Out: 18.87% | 23.02%)
-  One:  2.69%   (In/Out:  0.63% |  2.06%)
-  Rtl: 44.58%   (In/Out: 19.50% | 25.08%)
-  Red:  3.49%   (Bad:     0.27%)
+  Alt: 32.43%
+  Rol: 43.56%   (In/Out: 19.38% | 24.19%)
+  One:  2.90%   (In/Out:  0.63% |  2.27%)
+  Rtl: 46.46%   (In/Out: 20.01% | 26.45%)
+  Red:  3.57%   (Bad:     0.28%)
 
-  SFB: 0.75%
-  SFS: 5.22%    (Red/Alt: 1.26% | 3.96%)
+  SFB: 0.78%
+  SFS: 5.36%    (Red/Alt: 1.30% | 4.06%)
 
-  LH/RH: 42.63% | 57.37%
+  LH/RH: 42.51% | 57.49%
 ```
 This layout is based on [`Pine-v4`](https://github.com/ClemenPine/PineV4), made by ClemenPine. It boasts the highest speed rating and 3rd most comfort rating on the [layout battle website](https://keyboard-layout-battles.fly.dev/layout).
 
@@ -105,16 +105,16 @@ sturdy_thumbn (Oxey)
         n                   
 
 MONKEYRACER:
-  Alt: 33.46%
-  Rol: 41.42%   (In/Out: 21.21% | 20.22%)
-  One:  2.70%   (In/Out:  0.39% |  2.31%)
-  Rtl: 44.13%   (In/Out: 21.60% | 22.52%)
-  Red:  2.85%   (Bad:     0.30%)
+  Alt: 34.45%
+  Rol: 43.03%   (In/Out: 22.23% | 20.80%)
+  One:  2.92%   (In/Out:  0.40% |  2.52%)
+  Rtl: 45.95%   (In/Out: 22.63% | 23.32%)
+  Red:  2.91%   (Bad:     0.30%)
 
-  SFB: 0.53%
-  SFS: 4.36%    (Red/Alt: 0.89% | 3.47%)
+  SFB: 0.54%
+  SFS: 4.57%    (Red/Alt: 0.91% | 3.65%)
 
-  LH/RH: 48.46% | 51.54%
+  LH/RH: 48.25% | 51.75%
 ```
 Made by the creator of `Sturdy`, the 4th most loved layout on AKL discord, and `Oxey` recommends `sturdy_thumbn` for those who seek a thumb layout variant based on `Sturdy`.
 
@@ -133,38 +133,38 @@ sturdE (Oxey)
                e                   
 
 MONKEYRACER:
-  Alt: 27.43%
-  Rol: 47.12%   (In/Out: 22.38% | 24.74%)
-  One:  2.44%   (In/Out:  1.48% |  0.96%)
-  Rtl: 49.56%   (In/Out: 23.86% | 25.70%)
-  Red:  2.77%   (Bad:     0.33%)
+  Alt: 28.12%
+  Rol: 49.23%   (In/Out: 23.53% | 25.70%)
+  One:  2.49%   (In/Out:  1.51% |  0.98%)
+  Rtl: 51.72%   (In/Out: 25.04% | 26.68%)
+  Red:  2.83%   (Bad:     0.33%)
 
-  SFB: 0.56%
-  SFS: 5.00%    (Red/Alt: 2.12% | 2.88%)
+  SFB: 0.57%
+  SFS: 5.15%    (Red/Alt: 2.16% | 2.99%)
 
-  LH/RH: 43.33% | 56.67%
+  LH/RH: 43.36% | 56.64%
 ```
 `Oxey` doesn't recommend this over `sturdy-thumbn` and I can see why: it doesn't really address most issues that people have with `Sturdy`. I agree with `Oxey` here.
 
 ## SNTH
 ```
-snth
+SNTH
   x p d m q  = y o u ,
   s n t h v  g c a e i
   f b k l j  z w ' / .
         r                   
 
 MONKEYRACER:
-  Alt: 33.18%
-  Rol: 42.06%   (In/Out: 25.13% | 16.93%)
-  One:  2.79%   (In/Out:  0.51% |  2.28%)
-  Rtl: 44.85%   (In/Out: 25.64% | 19.22%)
-  Red:  2.45%   (Bad:     0.39%)
+  Alt: 34.23%
+  Rol: 43.69%   (In/Out: 26.41% | 17.28%)
+  One:  3.01%   (In/Out:  0.53% |  2.49%)
+  Rtl: 46.70%   (In/Out: 26.94% | 19.77%)
+  Red:  2.48%   (Bad:     0.39%)
 
-  SFB: 0.39%
-  SFS: 4.52%    (Red/Alt: 0.69% | 3.83%)
+  SFB: 0.40%
+  SFS: 4.65%    (Red/Alt: 0.70% | 3.95%)
 
-  LH/RH: 49.97% | 50.03%
+  LH/RH: 49.77% | 50.23%
 ```
 Made by `Hands Down` creator, a common presence on AKL subreddit.
 
@@ -197,16 +197,16 @@ snth-wuv (ddn)
                e                   
 
 MONKEYRACER:
-  Alt: 30.31%
-  Rol: 43.29%   (In/Out: 24.98% | 18.32%)
-  One:  3.52%   (In/Out:  1.09% |  2.43%)
-  Rtl: 46.81%   (In/Out: 26.06% | 20.75%)
-  Red:  4.23%   (Bad:     2.02%)
+  Alt: 31.30%
+  Rol: 44.92%   (In/Out: 26.12% | 18.80%)
+  One:  3.75%   (In/Out:  1.10% |  2.64%)
+  Rtl: 48.66%   (In/Out: 27.22% | 21.44%)
+  Red:  4.35%   (Bad:     2.04%)
 
-  SFB: 0.47%
-  SFS: 3.58%    (Red/Alt: 0.85% | 2.74%)
+  SFB: 0.48%
+  SFS: 3.69%    (Red/Alt: 0.87% | 2.82%)
 
-  LH/RH: 45.37% | 54.63%
+  LH/RH: 45.18% | 54.82%
 ```
 Made by `ddn`, a really helpful person in AKL discord.
 
@@ -225,16 +225,16 @@ strand (CN)
         n                   
 
 MONKEYRACER:
-  Alt: 33.75%
-  Rol: 41.47%   (In/Out: 20.62% | 20.86%)
-  One:  2.71%   (In/Out:  0.39% |  2.32%)
-  Rtl: 44.19%   (In/Out: 21.01% | 23.18%)
-  Red:  2.84%   (Bad:     0.30%)
+  Alt: 34.84%
+  Rol: 43.08%   (In/Out: 21.62% | 21.46%)
+  One:  2.93%   (In/Out:  0.40% |  2.53%)
+  Rtl: 46.01%   (In/Out: 22.02% | 23.99%)
+  Red:  2.90%   (Bad:     0.30%)
 
-  SFB: 0.51%
-  SFS: 4.06%    (Red/Alt: 0.89% | 3.18%)
+  SFB: 0.52%
+  SFS: 4.17%    (Red/Alt: 0.91% | 3.26%)
 
-  LH/RH: 48.46% | 51.54%
+  LH/RH: 48.25% | 51.75%
 ```
 Made by `val0rance`, a frequenter on AKL discord.
 
@@ -255,16 +255,16 @@ zanycat (ClemenPine)
                e                   
 
 MONKEYRACER:
-  Alt: 25.78%
-  Rol: 43.41%   (In/Out: 14.93% | 28.48%)
-  One:  4.42%   (In/Out:  1.21% |  3.21%)
-  Rtl: 47.83%   (In/Out: 16.14% | 31.69%)
-  Red:  7.48%   (Bad:     2.45%)
+  Alt: 26.43%
+  Rol: 45.37%   (In/Out: 15.88% | 29.50%)
+  One:  4.49%   (In/Out:  1.22% |  3.27%)
+  Rtl: 49.86%   (In/Out: 17.09% | 32.77%)
+  Red:  7.74%   (Bad:     2.51%)
 
-  SFB: 0.63%
-  SFS: 3.52%    (Red/Alt: 1.58% | 1.94%)
+  SFB: 0.65%
+  SFS: 3.63%    (Red/Alt: 1.63% | 2.00%)
 
-  LH/RH: 37.39% | 62.61%
+  LH/RH: 37.45% | 62.55%
 ```
 Made by ClemenPine with a goal to minimize SFS and SFB. It has slightly higher SFB than Dusk, but does achieve lower SFS.
 
@@ -279,16 +279,16 @@ racket (GalileoBlues)
         r                   
 
 MONKEYRACER:
-  Alt: 29.62%
-  Rol: 45.72%   (In/Out: 22.26% | 23.46%)
-  One:  1.98%   (In/Out:  0.99% |  1.00%)
-  Rtl: 47.70%   (In/Out: 23.25% | 24.46%)
-  Red:  3.56%   (Bad:     0.41%)
+  Alt: 30.46%
+  Rol: 47.72%   (In/Out: 23.12% | 24.60%)
+  One:  2.02%   (In/Out:  1.00% |  1.02%)
+  Rtl: 49.74%   (In/Out: 24.12% | 25.61%)
+  Red:  3.63%   (Bad:     0.42%)
 
-  SFB: 0.38%
-  SFS: 4.21%    (Red/Alt: 1.21% | 3.00%)
+  SFB: 0.40%
+  SFS: 4.34%    (Red/Alt: 1.24% | 3.10%)
 
-  LH/RH: 49.09% | 50.91%
+  LH/RH: 49.06% | 50.94%
 ```
 Made by the creator of `Gallium` (2nd most loved layout on AKL discord).
 
@@ -303,16 +303,16 @@ outrroll (yappi_)
         r                   
 
 MONKEYRACER:
-  Alt: 33.87%
-  Rol: 42.06%   (In/Out: 16.58% | 25.48%)
-  One:  2.74%   (In/Out:  0.32% |  2.42%)
-  Rtl: 44.80%   (In/Out: 16.90% | 27.90%)
-  Red:  2.50%   (Bad:     0.40%)
+  Alt: 34.91%
+  Rol: 43.71%   (In/Out: 17.25% | 26.46%)
+  One:  2.96%   (In/Out:  0.33% |  2.63%)
+  Rtl: 46.67%   (In/Out: 17.58% | 29.09%)
+  Red:  2.52%   (Bad:     0.41%)
 
-  SFB: 0.43%
-  SFS: 3.84%    (Red/Alt: 0.61% | 3.22%)
+  SFB: 0.45%
+  SFS: 3.96%    (Red/Alt: 0.64% | 3.33%)
 
-  LH/RH: 49.89% | 50.11%
+  LH/RH: 49.67% | 50.33%
 ```
 Made by `yappi`, a frequenter on AKL discord.
 
@@ -331,16 +331,16 @@ snert (CN)
         r                   
 
 MONKEYRACER:
-  Alt: 31.61%
-  Rol: 43.64%   (In/Out: 21.34% | 22.31%)
-  One:  2.49%   (In/Out:  0.36% |  2.13%)
-  Rtl: 46.13%   (In/Out: 21.70% | 24.44%)
-  Red:  2.55%   (Bad:     0.11%)
+  Alt: 32.64%
+  Rol: 45.30%   (In/Out: 22.18% | 23.12%)
+  One:  2.71%   (In/Out:  0.37% |  2.34%)
+  Rtl: 48.01%   (In/Out: 22.55% | 25.46%)
+  Red:  2.59%   (Bad:     0.11%)
 
-  SFB: 0.38%
-  SFS: 4.81%    (Red/Alt: 1.15% | 3.67%)
+  SFB: 0.39%
+  SFS: 4.95%    (Red/Alt: 1.16% | 3.79%)
 
-  LH/RH: 49.96% | 50.04%
+  LH/RH: 49.73% | 50.27%
 ```
 Made by `val0rance`, a frequenter on AKL discord.
 

@@ -144,23 +144,23 @@ It only support right thumb key, so it needs to be mirrored.
 
 ## Cmini
 ```
-dusk (feminist_chemo_doable)
+dusk
   x f d p q  j ' o u .
   n s t c y  m h a e i
   b v k g w  z l _ / ,
           r                 
 
 MONKEYRACER:
-  Alt: 28.16%
-  Rol: 47.99%   (In/Out: 21.00% | 26.99%)
-  One:  1.77%   (In/Out:  0.75% |  1.02%)
-  Rtl: 49.76%   (In/Out: 21.75% | 28.02%)
-  Red:  3.33%   (Bad:     0.32%)
+  Alt: 28.95%
+  Rol: 49.90%   (In/Out: 21.69% | 28.20%)
+  One:  1.80%   (In/Out:  0.76% |  1.04%)
+  Rtl: 51.69%   (In/Out: 22.46% | 29.24%)
+  Red:  3.38%   (Bad:     0.32%)
 
-  SFB: 0.38%
-  SFS: 3.76%    (Red/Alt: 1.08% | 2.68%)
+  SFB: 0.48%
+  SFS: 3.89%    (Red/Alt: 1.14% | 2.76%)
 
-  LH/RH: 46.96% | 53.04%
+  LH/RH: 46.97% | 53.03%
 ```
 
 ## a200
@@ -241,8 +241,6 @@ MONKEYRACER:
   Total: 100.00%
 ```
 ## SFS Finger Distribution (Cmini)
-- The total 3.97% is actually a more accurate number than the Cmini stat above due to some lower/upper case conversion issues in Cmini.
-
 - Right index taking the most load at 0.97%, but it really only handles `HLM` as the other 3 keys are infrequent.
 ```
 dusk (sfs)
@@ -262,8 +260,6 @@ MONKEYRACER:
   Total: 3.97%
 ```
 ## SFB Finger Distribution (Cmini)
-- The total 0.48% is actually a more accurate number than the Cmini stat above due to some lower/upper case conversion issues in Cmini.
-
 - No finger gets over 0.20%
 
 - The majority of SFB for right index is attributed by `'m`, which is designed to be alted (`'l` too).
