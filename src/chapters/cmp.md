@@ -1,5 +1,5 @@
 # Comparison
-Here you can find my thoughts and hopefully, a charitable description of them.
+Here you can find my thoughts on other thumb layouts and hopefully, a charitable description of them.
 
 ## Aptmak
 ```
@@ -346,4 +346,4 @@ Made by `val0rance`, a frequenter on AKL discord.
 
 Some people like having `T` on index, and `Snert` doesn't have the high index movement that some other index `T` layouts have. 
 
-I think it should swap `BP` to address `bl` (`able`) and `mp` (`important`) though, but then `SP` scissor gets created (`space`).
+I think we should swap `BP` to address `bl` (`able`) and `mp` (`important`) though, but then `SP` scissor gets created (`space`).
