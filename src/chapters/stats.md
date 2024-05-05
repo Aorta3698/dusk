@@ -224,7 +224,7 @@ I am not on board with how Cyanophage calculates scissors; for examples, `zo` an
 
 - If you are of the belief that thumb should count, then it is even worse than `41.53:58.47` because space is by far the most common letter (more than `E`).
 ```
-dusk (usage) (feminist_chemo_doable) (7 likes)
+dusk (usage)
   x f d p q  j ' o u .
   n s t c y  m h a e i
   b v k g w  z l _ / ,
