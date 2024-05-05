@@ -82,7 +82,7 @@ This layout is based on [`Pine-v4`](https://github.com/ClemenPine/PineV4) from C
 
 `RST` homerow is familiar to many as it is the same homerow found on Colemak as well, and I personally believe that having `T` on index feels quite good as there are many words that end with `T`, promoting inroll that ends on the strongest finger.
 
-Aside from `BO` scissor (`about`), there really isn't many scissors in this layout, achieved by having 3 dead letters on left hand pinky, ring, and middle fingers. 2u SFS may be a bit higher than Dusk due to `k__g` (`looking`, `thinking`) and `m_g` (`might`) if that's something you care about.
+Aside from `BO` scissor (`about`), there really aren't many scissors in this layout, achieved by having 3 dead letters on left hand pinky, ring, and middle fingers. 2u SFS may be a bit higher than Dusk due to `k__g` (`looking`, `thinking`) and `m_g` (`might`) if that's something you care about.
 
 All the while having competitive SFS and SFB stats. Overall, this is the layout that I like the most out of the 3 that we've discussed thus far.
 
