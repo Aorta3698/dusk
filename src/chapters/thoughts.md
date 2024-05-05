@@ -99,13 +99,13 @@ Info obtained from Cmini with Monkeyracer corpus.
 
 | Metric | Diff       | Dusk   | Canary |
 |--------|------------|--------|--------|
-|  SFB   |  -0.58%    | 0.38%  | 0.96%  | 
-|  SFS   |  -3.87%    | 3.76%  | 7.63%  |
-|  Red   |  +0.04%    | 3.33%  | 3.29%  |
-|  Alt   |  +4.49%    | 28.16% | 23.67% |
-|  Rol   |  +0.86%    | 47.99% | 47.13% |
+|  SFB   |  -0.50%    | 0.48%  | 0.98%  | 
+|  SFS   |  -4.03%    | 3.89%  | 7.92%  |
+|  Red   |  -0.10%    | 3.38%  | 3.48%  |
+|  Alt   |  +4.72%    | 28.95% | 24.23% |
+|  Rtl   |  +0.40%    | 51.69% | 51.29% |
 
-Note that 28.16% is not considered to be high alt. `Graphite` has 31.94% and `Semimak-JQ` has 32.66%. `Canary-ortho` having 23.67% alt is remarkably low and it was designed to be that way.
+Note that 28.95% is not considered to be high alt. `Graphite` has 32.92% and `Semimak-JQ` has 33.82%. `Canary-ortho` having 24.23% alt is remarkably low and it was designed to be that way.
 
 ### Flowy-meter
 This is subjective.
