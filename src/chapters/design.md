@@ -157,7 +157,7 @@ Embrace the `OA'` stack like the layout below shows - all the pros and cons have
 
 You may want to swap `J~`.
 
-This results in about 0.02% lower SFB and 0.10% higher SFS.
+This results in 0.10% lower SFB and 0.29% higher SFS on MonkeyRacer corpus. 
 ```
 B F D P Q  J ~ O U .
 N S T C Y  M H A E I
@@ -173,7 +173,7 @@ Keep in mind that it creates
 - `DN'` redirection (`don't`)
 - `C__'` SFS (`can't`)
 
-It results in roughly the same SFB and SFS on either SHAI or Monkeyracer, but it increases redirection by 0.58% on Monkeyracer corpus according to Cmini.
+It results in 0.04% lower SFB and 0.01% lower SFS on Monkeyracer corpus, but it increases redirection by 0.59% on according to Cmini.
 ```
 B F D P '  Q J O U .
 N S T C Y  M H A E I
