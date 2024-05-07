@@ -213,7 +213,7 @@ Made by `ddn`, a really helpful person in AKL discord.
 `Snth-wuv` is impressive in a way that it has similar SFB but with noticeably lower SFS than Dusk.
 
 Some cons may be:
-- `RK` and `GO` scissors as they are quite common (`work` and `go`)
+- `RK` full scissors and `GO` stretch as they are quite common (`work` and `go`)
 - Heavy ring `RNX` stack.
 
 ## Strand
@@ -347,3 +347,29 @@ Made by `val0rance`, a frequenter on AKL discord.
 Some people like having `T` on index, and `Snert` doesn't have the high index movement that some other index `T` layouts have. 
 
 I think we should swap `BP` to address `bl` (`able`) and `mp` (`important`) though, but then `SP` scissor gets created (`space`).
+
+## RSTHD
+```
+RSTHD
+  j c y f k  z l , u q =
+  r s t h d  m n a i o '
+  / v g p b  x w . ; -  
+               e                     
+
+MONKEYRACER:
+  Alt: 24.64%
+  Rol: 49.17%   (In/Out: 31.72% | 17.45%)
+  One:  3.37%   (In/Out:  2.66% |  0.71%)
+  Rtl: 52.54%   (In/Out: 34.38% | 18.16%)
+  Red:  4.36%   (Bad:     0.27%)
+
+  SFB: 0.96%
+  SFS: 5.91%    (Red/Alt: 3.48% | 2.43%)
+
+  LH/RH: 43.00% | 57.00%
+```
+[RSTHD](https://xsznix.wordpress.com/2016/05/16/introducing-the-rsthd-layout/), created by Simon in 2016, is the oldest thumb layout on the list before any of the modern analyzers and metrics come into existence.
+
+Its SFS is on the higher end due to `GT` (`-ght`) and `MN` (`-ment`) stacks. `v_r` (`very`) skipgram pinky-ring half scissor and `by` full index-middle stretch can be too much for some. All in all, I think it is a decent layout especially given that it was made in 2016.
+
+

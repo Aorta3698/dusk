@@ -75,7 +75,7 @@ ENGLISH-200:
 ## `W` position... Really?
 There is actually another version of Dusk: `Dusk_optimized`.
 
-To get rid of `W` inner key, `Dusk_optimized` moved `P` to be with `BN`, and in doing so, it gets rid of the inner corner key and achieves even lower SFB and SFS. However, the cost of it is a whopping 1.41% increase in half scissors according to Keysolve.
+To get rid of `W` inner key (and optimize SFS and SFB), `Dusk_optimized` moved `P` to be with `BN`, and in doing so, it gets rid of the inner corner key and achieves even lower SFB and SFS. However, the cost of it is a whopping 1.41% increase in half scissors according to Keysolve.
 
 I hesitate to recommend `Dusk_optimized` for the following reasons:
 
@@ -90,19 +90,19 @@ dusk_optimized
   z p d g q  j ' o u .
   s n t c y  m h a e i
   f b k w v  x l _ / ,
-          r                   
+        r                   
 
 MONKEYRACER:
-  Alt: 28.31%
-  Rol: 47.97%   (In/Out: 20.42% | 27.55%)
-  One:  1.67%   (In/Out:  0.63% |  1.04%)
-  Rtl: 49.64%   (In/Out: 21.06% | 28.58%)
-  Red:  3.42%   (Bad:     0.39%)
+  Alt: 29.10%
+  Rol: 49.88%   (In/Out: 21.12% | 28.76%)
+  One:  1.69%   (In/Out:  0.65% |  1.05%)
+  Rtl: 51.57%   (In/Out: 21.77% | 29.81%)
+  Red:  3.48%   (Bad:     0.39%)
 
-  SFB: 0.36%
-  SFS: 3.68%    (Red/Alt: 1.07% | 2.62%)
+  SFB: 0.46%
+  SFS: 3.81%    (Red/Alt: 1.12% | 2.69%)
 
-  LH/RH: 46.90% | 53.10%
+  LH/RH: 46.91% | 53.09%
 ```
 
 ## How did you make the figures in [Layout](./layout.md)?
@@ -113,9 +113,9 @@ layout:
   #qmk_layout: LAYOUT_split_3x5_2
 layers:
   DEF:
-    - [B, F, D, P, W, J, "'", O, U, .]
+    - [X, F, D, P, Q, J, "'", O, U, .]
     - [N, S, T, C, Y, M, H, A, E, I]
-    - [Q, Z, K, G, V, X, L, "_", /, ","]
+    - [B, V, K, G, W, Z, L, "_", /, ","]
     - {}
     - {t: R}
     - {}
