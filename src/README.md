@@ -1,5 +1,7 @@
 # Introduction
 
+- Last Updated on 05/07/2024
+
 `Dusk`, created on 04/14/2024, is a well-balanced keyboard layout for columnar keyboard with thumb keys.
 
 The most impressive feat that `Dusk` achieves is that it is remarkably low in
