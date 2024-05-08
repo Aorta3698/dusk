@@ -81,7 +81,7 @@ Info obtained from Cyanophage.
 |-----------|------------|-------|--------|
 |  2u SFS   |  -0.04%    | 0.11% | 0.15%  |
 
-It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho` into account (`very`, `back`, `park`), so in actuality, it is better than just 0.04% reduction.
+It doesn't take the hidden ones like `v__y`, `b__k`, and `p__k` in `Canary-ortho` into account (`very`, `back`, `park`), so in actuality, it is better than just a 0.04% reduction.
 
 ### Various info
 Info obtained from Oxeylyzer.
@@ -116,7 +116,7 @@ This is subjective.
 | Fun    | Mid    | High    |
 | Top    | ?      | 213 WPM |
 
-Canary is a solid layout based on Colemak-DH and is fun to type on (at lower speed). It is gained some recognition in the past few years and can now be found on [Keybr](https://www.keybr.com/layouts). It is not to say that Canary is un-usable at high speed; in fact, there are 5 people who have cleared 200 WPM with Canary as of April 2024. I still do like Canary and can recommend it if you can look past its flaws.
+Canary is a solid layout based on Colemak-DH and is fun to type on (at lower speed). It is gained some recognition in the past few years and can now be found on [Keybr](https://www.keybr.com/layouts). The issues that I had with Canary is not to say that Canary is un-usable at high speed; in fact, there are 5 people who have cleared 200 WPM with Canary as of April 2024. I still do like Canary and can recommend it if you can look past its flaws.
 
 
 
