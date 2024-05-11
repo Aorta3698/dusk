@@ -2,6 +2,7 @@
 <!-- toc -->
 ## Dusk
 - On my keyboard Piantor, `R` is slightly to the right of what's shown here.
+- This is the variant that I personally use.
 
 ![](../assets/dusk.svg)
 
@@ -32,3 +33,18 @@ n s t c y  m h a e i
 b q k g w  z l _ / ,
         r                  
 ```
+
+## Variants in Cmini bots
+For the curious: In `Cmini` discord bots, you can find dusk variants created by me and other people
+- `dusk`
+- `dusk_vq`
+- `dusk_alt`
+- `dusk_JQ`
+
+- `dusk-wyy`
+- `dusk-pbvwg`
+
+- `dusk_optimized`
+- `duskopt_alt`
+
+- `magic_dusk`

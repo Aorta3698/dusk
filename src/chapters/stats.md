@@ -204,7 +204,7 @@ This website gets mentioned a lot lately and for a good reason - it is one of th
 - It was speculated that all its stats include space, so they are all much lower than those from the other tools.
 
 ### Regarding Scissors
-I am not on board with how Cyanophage calculates scissors; for examples, `zo` and `vp` on dusk are not considered as scissors, but `lo` is, and there is no consideration for half scissors like `pt` or `ft` at all. Additionally, Cyanophage considers `nf` and `e,` to be scissors, but they are not normally considered to be scissors.
+I am not on board with how Cyanophage calculates scissors; for examples,  `vp` on dusk is not considered as scissors, but `lo` is, and there is no consideration for half scissors like `pt` or `ft` at all. Additionally, Cyanophage considers `nf` and `e,` to be scissors, but they are not normally considered to be scissors.
 
 ![](../assets/cyan.png)
 
