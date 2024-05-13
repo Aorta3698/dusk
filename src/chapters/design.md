@@ -29,7 +29,7 @@ Having `I` alone on the pinky for the `.I,` stack.
 
 Why vowel block? because vowels don't go well with most letters, but they go relatively well with each other.
 
-Feel free to swap `.,` if you prefer that way.
+If you type `./` or `../` often, you may want to swap `.,`.
 
 ## Consonants
 
@@ -173,7 +173,7 @@ Keep in mind that it creates
 - `DN'` redirection (`don't`)
 - `C__'` SFS (`can't`)
 
-It results in 0.04% lower SFB and 0.01% lower SFS on Monkeyracer corpus, but it increases redirection by 0.59% on according to Cmini.
+It results in 0.04% lower SFB and 0.01% lower SFS on Monkeyracer corpus, but it increases redirection by 0.59% on according to Cmini, attributed to `t's` and `n't`. Additionally, both `'t` and `t'` do not feel good to me.
 ```
 B F D P '  Q J O U .
 N S T C Y  M H A E I

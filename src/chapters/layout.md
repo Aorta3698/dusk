@@ -35,16 +35,4 @@ b q k g w  z l _ / ,
 ```
 
 ## Variants in Cmini bots
-For the curious: In `Cmini` discord bots, you can find dusk variants created by me and other people
-- `dusk`
-- `dusk_vq`
-- `dusk_alt`
-- `dusk_JQ`
-
-- `dusk-wyy`
-- `dusk-pbvwg`
-
-- `dusk_optimized`
-- `duskopt_alt`
-
-- `magic_dusk`
+For the curious: In `Cmini` discord bots, you can find dusk variants created by me and other people with `!cmini filter --name dusk`.
