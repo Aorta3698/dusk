@@ -131,7 +131,7 @@ Hand Balance
 ```
 
 ## Keysolve
-It only support right thumb key, so it needs to be mirrored.
+It only support right thumb key, so it needs to be mirrored. Keysolve uses `Monkeyracer` corpus.
 
 | Metric                          | Dusk           |
 |---------------------------------|----------------|

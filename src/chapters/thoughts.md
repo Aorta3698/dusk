@@ -65,7 +65,7 @@ If you want to learn more about magic layouts, you may want to check out [Ikcela
 ## `Dusk` vs. `Canary-ortho`
 
 ### Scissors
-Info obtained from Keysolve.
+Info obtained from Keysolve (`Monkeyracer` corpus).
 
 | Metric | Diff       | Dusk  | Canary |
 |--------|------------|-------|--------|
