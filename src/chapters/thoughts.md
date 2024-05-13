@@ -124,5 +124,8 @@ Canary is a solid layout based on Colemak-DH and is fun to type on (at lower spe
 ## Addressing `P_W` and `W_P`
 I do not think it is worth it to swap `WQ` or `PG` to address this 2.24u SFS. Instead, addressing it by hitting `P` with middle finger and `W` with index finger is my suggestion.
 
+## Addressing `gr_p` and `wr_p`
+Redirect SFS is known to be more annoying than alt SFS - it is especially bad when it is 2u. You can hit `p` with your middle finger for `gr_p` and `wr_p` to address them (`graph`, `grep`, and `wrap`).
+
 ## Closing
 Overall, I believe `Dusk` is an improvement over `Canary-ortho` in a lot of ways and I am happy with how it turns out.
