@@ -11,7 +11,7 @@ I rarely feel any SFB or SFS at all thanks to `Dusk`'s impressive stats, and the
 Additionally, I like the fact that it has almost all the common shortcuts on my left hand: 
 `CTRL-C`, `CTRL-V`, `CTRL-X`, `CTRL-W`, `CTRL-D`. The only regrettable thing is `CTRL-Z` and `CTRL-A` being 2 hands.
 
-When it comes to vim, I am editing this documentation with `Helix` and I think decent: `xd` is an inroll; `hlkj`, except `j` are easily reachable; `wb` are on the same row though `w` is not ideal.  (disclaimer: I got used to using `Canary-ortho` on `Neovim` and `Helix`, and I don't see how `Dusk` is worse than `Canary-ortho` when it comes to vim motion).
+When it comes to vim, I am editing this documentation with `Helix` and I think decent: `xd` is an inroll; `hlkj`, except `j`, are easily reachable; `wb` are on the same row though `w` is not ideal.  (disclaimer: I got used to using `Canary-ortho` on `Neovim` and `Helix`, and I don't see how `Dusk` is worse than `Canary-ortho` when it comes to vim motion).
 
 
 But of course, no layout is perfect, despite its impressive stats, `Dusk` isn't without its own problems. The below I list out all criticism that `Dusk` has received and all the minor annoyances I have noticed while using `Dusk`.
