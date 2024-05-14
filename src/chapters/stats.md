@@ -87,7 +87,7 @@ Score: 27.00
 ```
 
 ## Krillyzer
-Krillyzer is mainly used for analyzing SFS and SFBS distance
+Krillyzer is mainly used for analyzing SFS and SFBS distance.
 
 | Metric                          | Dusk           |
 |---------------------------------|----------------|
@@ -211,7 +211,7 @@ I am not on board with how Cyanophage calculates scissors; for examples,  `vp` o
 ## 2U SFS
 - Cyanophage's tool is one of the only tools that show 2u SFS.
 
-- If you alt `'ll`, the actually number is 0.10%.
+- If you alt `'ll`, the actual number is 0.10%.
 
 - There is the hidden `P__G` (mostly `-ping` as in `hoping`) and `K__D` (`kind`), but they are not that common.
 
