@@ -207,8 +207,7 @@ Z V K G W  X L _ / ,
 ```
 
 ## Final Adjustment
-One user of Dusk, `brownfoxjumps`, mentioned that he felt it is better to swap `BZ`. I have to say that I agree with him having used Dusk for 14 days myself. 
-As `Dusk` it is now, words like `above`, `back`, `break`, and `obvious` all require whole hand movement due to skipgram scissors. If `BZ` is swapped, then the only key that would be of concern is the top ring key `F`, but `B` and `F` don't really interact with each other much at all - except for the word `before`. `b_d` and `prob-` still don't require hand movement and feel fine. I decided that swapping `BZ` is worth it.
+One user of Dusk, `brownfoxjumps`, mentioned that he was using dusk with `BZ` swap. This got me thinking - as `Dusk` it is now, words like `above`, `back`, `break`, `obvious`, and `keyboard` all require whole hand movement due to (skipgram) scissors. If `BZ` is swapped, then the only key that would be of concern is the top ring key `F`, but `B` and `F` don't really interact with each other much at all - except for the word `before`. `b_d` and `prob-` still don't require hand movement and feel fine. I decided that swapping `BZ` is worth it.
 
 ```
 Z F D P Q  J ' O U .
@@ -225,3 +224,25 @@ N S T C Y  M H A E I
 B V K G W  Z L _ / ,
         R
 ```
+
+### What about `FV` swap?
+Some of you may be wondering: why not the following layout? Doesn't it address `b_f` and `dv` while not losing out much (`g_v` but it is no big deal)?
+
+```
+Z V D P Q  J ' O U .
+N S T C Y  M H A E I
+B F K G W  X L _ / ,
+        R
+```
+I toyed with this idea for a while and came to the conclusion that it is not worth it because of `f_nd`, which is quite a lot more common than `dv` on dusk while feeling worse than it.
+
+Summary:
+
+#### Pros
+- `dv` roll
+- `b_f` same row
+
+#### Cons
+- `f_nd` skipgram redirect 2 row jump
+- `xz` forced swap or getting `f_x` skipgram scissor
+- `bv`/`b_v` 2 row jump
