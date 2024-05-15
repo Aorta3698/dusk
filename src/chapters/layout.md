@@ -2,7 +2,7 @@
 <!-- toc -->
 ## Dusk
 - On my keyboard Piantor, `R` is slightly to the right of what's shown here.
-- This is the variant that I personally use.
+- This variant with `,.` swap is what I personally use.
 
 ![](../assets/dusk.svg)
 
