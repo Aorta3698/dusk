@@ -22,7 +22,9 @@ In particular, I don't vibe with:
 
 Don't get me wrong - `Canary-ortho` is a decent layout - but I just hope for something better. I decided to try other modern layouts such as `Graphite`, `Gallium`, `Kuntum`, `Stronk`, and several others, but none of it speaks to me the way that `Canary` does.
 
-Additionally, my keyboard `Piantor Pro` is a split columnar keyboard with an aggressive pinky stagger and 3 thumb keys on each side, and most popular keyboard layouts were designed for conventional rowstag keyboards.
+Additionally, my keyboard `Piantor Pro` (shown below) is a split columnar keyboard with an aggressive pinky stagger and 3 thumb keys on each side, and most popular keyboard layouts were designed for conventional rowstag keyboards.
 
 Eventually, after making several different layouts and not finding the one, I realized what I am looking for may not be possible without having a letter on the thumb key. I started to expriment with thumb `Y`, `I`, `S`, and finally landing on thumb `R`: `Dusk`.
+
+![](../assets/piantor.png)
 
