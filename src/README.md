@@ -13,6 +13,9 @@ The most impressive feat that `Dusk` achieves is that it is remarkably low in (p
 
 while maintaining a reasonable redirection and LSB. As such, `Dusk` is consistent and a good general-purpose thumb layout.
 
+### Github
+You can star this repo by clicking on the Github icon located on the top right corner <3
+
 ### Side Note
 No idea what LSB, SFS, or SFB means? Check out [terminology](chapters/term.md)!
 
