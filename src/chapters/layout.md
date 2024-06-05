@@ -2,7 +2,8 @@
 <!-- toc -->
 ## Dusk
 - On my keyboard Piantor, `R` is slightly to the right of what's shown here.
-- This variant with `,.` swap is what I personally use.
+- This variant with `,.` and `r<spc>` swaps is what I personally use.
+- To read my 6 weeks experience, read [here](../journeys/2024_Jun_5.md).
 
 ![](../assets/dusk.svg)
 

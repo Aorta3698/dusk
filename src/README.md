@@ -1,6 +1,6 @@
 # Introduction
 
-- Site last updated on 05/16/2024
+- Site last updated on 06/05/2024
 
 `Dusk`, created on 04/14/2024, is a well-balanced keyboard layout for columnar keyboard with thumb keys.
 
@@ -12,6 +12,8 @@ The most impressive feat that `Dusk` achieves is that it is remarkably low in (p
 - Both full and half scissors and skipgram scissors `0.02%/0.11%/2.09%/4.68%`
 
 while maintaining a reasonable redirection and LSB. As such, `Dusk` is consistent and a good general-purpose thumb layout.
+
+- **Click [here](journeys/2024_Jun_5.md) for my thoughts after reaching 8X on e10k 2min test.**
 
 ### Github
 You can star this repo by clicking on the Github icon located on the top right corner <3

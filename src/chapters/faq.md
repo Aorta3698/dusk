@@ -27,6 +27,9 @@ Explore [this option](./design.md#i-dont-want-to-alt).
 - The intended `CY`, `YC`, `PY`, `YP` alts would be less feasible. Think words like `happy` or `privacy`.
 
 ## How much worse is vowel thumb space and can I use thumb R with vowel thumb?
+All of the below still stands true, but I have some new perspective on this [here](../journeys/2024_Jun_5.md).
+
+---
 It is commonly known that space should be pressed with the consonant thumb because it has lower redirection and higher roll, and so why is the thumb `R` in `Dusk` on the consonant side?
 
 The reason is simple - thanks to `a200` analyzer, I've come to the conclusion that even after considering the extra 0.52% redirection incurred by vowel space thumb, having `R` on the consonant thumb as opposed to the vowel thumb leads to approximately 3.87% lower redirection overall.
